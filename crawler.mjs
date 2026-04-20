@@ -56,9 +56,19 @@ function buildUrl(base, page, { exec, category, id }) {
 
 async function getCategories(lang, pageType) {
   const page = PAGES[pageType];
-  const html = await fetchHTML(`${lang.base}/?idx=${page.idx}`);
+  // 메인 URL은 JS 렌더링이라 카테고리가 없음. AJAX 베이스 엔드포인트(exec 없음)에
+  // #main_ct_lstd > div 형태로 카테고리가 서버-렌더되어 들어있음.
+  const params = new URLSearchParams({
+    _simpleApps: 'etc/cart_resv2',
+    _dbpath: '',
+    mvwizhistory_id: '',
+    mvwiz: page.mvwiz,
+    _get: `{"idx":"${page.idx}"}`,
+    _ajaxpage: 'true',
+  });
+  const html = await fetchHTML(`${lang.base}/index.php?${params.toString()}`);
   const $ = load(html);
-  return $('.guctgr > div').map((_, el) => $(el).text().trim()).get().filter(Boolean);
+  return $('#main_ct_lstd > div').map((_, el) => $(el).text().trim().replace(/\s+/g, ' ')).get().filter(Boolean);
 }
 
 async function crawlLanguage(lang) {
