@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T13:00:01.380Z",
+  "updated_at": "2026-04-20T13:37:28.235Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -4387,6 +4387,65 @@
       "name": "日本語",
       "event": [
         {
+          "category": "時短パス",
+          "group": "時短パス",
+          "groupPriceFrom": "19,000KRW +",
+          "items": [
+            {
+              "name": "FAST TRACK) アクアピール1回 (1 + 2剤)",
+              "price": "29,000KRW"
+            },
+            {
+              "name": "FAST TRACK) カボチャピール/ブラックピール 1回",
+              "price": "45,000KRW"
+            },
+            {
+              "name": "FAST TRACK) ブラックピール",
+              "price": "45,000KRW"
+            },
+            {
+              "name": "FAST TRACK) ララピール・プラピール・GAピール 1回",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "FAST TRACK) アイドルピール 1回",
+              "price": "89,000KRW"
+            },
+            {
+              "name": "FAST TRACK) V レーザー (赤み or 血管 or色素)",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "FAST TRACK）インモードFX（1部位）",
+              "price": "39,000KRW"
+            },
+            {
+              "name": "FAST TRACK) スキンボトックス2㏄（韓国製/ニューラックス）",
+              "price": "49,000KRW"
+            },
+            {
+              "name": "FAST TRACK) しわボトックス3部位（韓国製/ニューラックス）",
+              "price": "29,000KRW"
+            },
+            {
+              "name": "FAST TRACK) エラボトックス 50u（韓国製/ニューラックス）",
+              "price": "19,000KRW"
+            },
+            {
+              "name": "FAST TRACK) ポテンツァ",
+              "price": "109,000KRW"
+            },
+            {
+              "name": "FAST TRACK) ピコシュアトーニング+ジェネシス",
+              "price": "89,000KRW"
+            },
+            {
+              "name": "FAST TRACK) ジェネシストーニング",
+              "price": "69,000KRW"
+            }
+          ]
+        },
+        {
           "category": "1回体験",
           "group": "1回体験",
           "groupPriceFrom": "25,000KRW +",
@@ -4666,6 +4725,107 @@
             {
               "name": "リズネ 4cc",
               "price": "150,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🎫Golden Week🎫",
+          "group": "🎟️GW EVENT 9.9🎟️",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "🎟️GW1 EVENT) インモードFX(全顔)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT) シュリンクユニバース(MPモード)300ショット",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT) シュリンクユニバース(ブースターモード)300ショット",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT) アクアピーリング(1・2・3剤)＋クライオ",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT) ポテンツァNチップ(チップ代込み)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT)ピコトーニング＋ジェネシス＋白玉IV＋モデリングパック",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "🎟️GW1 EVENT) メガ白玉注射(ビタミンB・C＋白玉IV)",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🎫Golden Week🎫",
+          "group": "🎫GW EVENT 18.9🎫",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "🎫GW1 EVENT) リジュラン2cc",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) ララトーニング",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) ポテンツァ (CPチップ) + PDRN＋クライオ",
+              "price": "198,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) クールソニック(二重顎)1000ショット",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) イブタイタン(タイタン or プロモード）10分",
+              "price": "198,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) オリジオ(フェイス or アイ)100ショット",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) インナータイドエクソソームスキンケア",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "🎫GW1 EVENT) ウィコウノ",
+              "price": "198,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🎫Golden Week🎫",
+          "group": "💜GW EVENT 28.9💜",
+          "groupPriceFrom": "289,000KRW +",
+          "items": [
+            {
+              "name": "💜GW2 EVENT) フェイスオンダ 50Kj",
+              "price": "289,000KRW"
+            },
+            {
+              "name": "💜GW2 EVENT) ポテンツァ(CPチップ)＋リジュラン2cc＋クライオ",
+              "price": "289,000KRW"
+            },
+            {
+              "name": "💜GW2 EVENT) ポテンツァ(CPチップ)＋ジュベロック2cc＋クライオ",
+              "price": "289,000KRW"
+            },
+            {
+              "name": "💜GW2 EVENT) リジュランHBプラス 2cc",
+              "price": "289,000KRW"
+            },
+            {
+              "name": "💜GW2 EVENT) ベロテロフィラー 1cc (唇 or 顎先 or 口角)",
+              "price": "289,000KRW"
             }
           ]
         },
@@ -7032,6 +7192,73 @@
     "cn": {
       "name": "中文",
       "event": [
+        {
+          "category": "⏭️短時高效療程",
+          "group": "⏭️FAST TRACK",
+          "groupPriceFrom": "19,000KRW +",
+          "items": [
+            {
+              "name": "[FAST] 小气泡（1、2阶段）",
+              "price": "29,000KRW"
+            },
+            {
+              "name": "[FAST] 咬肌肉毒（韩国本土/ Newlux) 50u",
+              "price": "19,000KRW"
+            },
+            {
+              "name": "[FAST] 除皱肉毒 (本土/NEWLUX) 任意三个部位",
+              "price": "29,000KRW"
+            },
+            {
+              "name": "[FAST] 焕肤肉毒 (韩国本土/NEWLUX) 2cc",
+              "price": "49,000KRW"
+            },
+            {
+              "name": "[FAST] INMODE 钻石超塑（FX模式） 任一部位",
+              "price": "39,000KRW"
+            },
+            {
+              "name": "[FAST] Eve Titan（Titan 或 Pro Mode 10分钟）",
+              "price": "149,000KRW"
+            },
+            {
+              "name": "[FAST] picosure 皮秒焕肤 1次",
+              "price": "35,000KRW"
+            },
+            {
+              "name": "[FAST] V激光（任一模式）",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[FAST] Genesis激光",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[FAST] picosure皮秒+Genesis激光",
+              "price": "89,000KRW"
+            },
+            {
+              "name": "[FAST] 黄金微针(N探头)",
+              "price": "109,000KRW"
+            },
+            {
+              "name": "[FAST] LHALA焕肤",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[FAST] PLA焕肤/ GA焕肤",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[FAST] 南瓜焕肤/ 黑醋焕肤",
+              "price": "45,000KRW"
+            },
+            {
+              "name": "[FAST] 爱豆(PHA)焕肤 1次",
+              "price": "89,000KRW"
+            }
+          ]
+        },
         {
           "category": "首次到访优惠",
           "group": "单次体验价/單次體驗價",
