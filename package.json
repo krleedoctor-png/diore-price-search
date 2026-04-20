@@ -1,0 +1,12 @@
+{
+  "name": "diore-price-search",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl": "node crawler.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

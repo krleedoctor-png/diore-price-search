@@ -78,19 +78,36 @@
   mark { background: #fff2c7; color: inherit; padding: 0 2px; border-radius: 2px; }
   .loading { text-align: center; padding: 40px 0; color: #888; }
   .error { color: #c00; padding: 20px; background: #fee; border-radius: 8px; }
+  .lang-tabs {
+    display: flex; gap: 6px; margin: 14px 0 8px; flex-wrap: wrap;
+    border-bottom: 1px solid #e8e2d5;
+  }
+  .lang-tabs button {
+    background: none; border: 0; padding: 10px 16px;
+    font-size: 14px; cursor: pointer; color: #888;
+    border-bottom: 2px solid transparent; margin-bottom: -1px;
+    font-weight: 500;
+  }
+  .lang-tabs button:hover { color: #cea16f; }
+  .lang-tabs button.active {
+    color: #222; border-bottom-color: #cea16f; font-weight: 600;
+  }
+  .lang-tabs button:disabled { color: #ccc; cursor: not-allowed; }
 </style>
 </head>
 <body>
   <div class="container">
     <h1>디오레 CS 가격 검색</h1>
     <div class="meta">
-      가격 업데이트: <span id="updated-at">-</span>
-      <button onclick="location.reload()">새로고침</button>
+      <span id="updated-label">가격 업데이트:</span> <span id="updated-at">-</span>
+      <button id="reload-btn" onclick="location.reload()">새로고침</button>
     </div>
+
+    <div class="lang-tabs" id="lang-tabs"></div>
 
     <div class="search-box">
       <input id="search" type="text" placeholder="시술명 또는 키워드 (예: 리쥬란 2cc, 보톡스)" autofocus />
-      <div class="hint">스페이스로 여러 단어 동시 검색 · 시술명·용량으로 필터링</div>
+      <div class="hint" id="hint">스페이스로 여러 단어 동시 검색 · 시술명·용량으로 필터링</div>
     </div>
 
     <div id="status" class="loading">가격 데이터 로딩 중...</div>
@@ -2314,26 +2331,54 @@
 }
 </script>
 <script>
-let DATA = null;
+let DATA = null;           // 항상 다국어 정규화된 형태: { updated_at, languages: { ko: {event, regular}, ... } }
+let CURRENT_LANG = 'ko';
 let LAST_RESULTS = [];
+
+const LANG_ORDER = ['ko', 'en', 'jp', 'cn', 'th'];
+const LANG_LABEL = { ko: '한국어', en: 'English', jp: '日本語', cn: '中文', th: 'ไทย' };
+
+// 언어별 UI 문구
+const I18N = {
+  ko: { title: '디오레 CS 가격 검색', updated: '가격 업데이트', reload: '새로고침', search: '시술명 또는 키워드 (예: 리쥬란 2cc, 보톡스)', hint: '스페이스로 여러 단어 동시 검색 · 시술명·용량으로 필터링', event: '이벤트', regular: '정상가', groupCopy: '그룹 복사', itemCopy: '복사', copied: '복사됨', copyAll: '전체 복사', copySelected: '선택 복사', empty: '검색 결과가 없습니다.', count: (g, t) => `${g}개 그룹 · 총 ${t}개 시술` },
+  en: { title: 'DIORE CS Price Search', updated: 'Last updated', reload: 'Reload', search: 'Procedure or keyword (e.g. Rejuran 2cc, Botox)', hint: 'Multi-keyword search with space · filter by name/dose', event: 'Event', regular: 'Regular', groupCopy: 'Copy group', itemCopy: 'Copy', copied: 'Copied', copyAll: 'Copy all', copySelected: 'Copy selected', empty: 'No results.', count: (g, t) => `${g} groups · ${t} items` },
+  jp: { title: 'DIORE CS 料金検索', updated: '更新日時', reload: '再読み込み', search: '施術名・キーワード (例: リジュラン 2cc, ボトックス)', hint: 'スペース区切りで複数キーワード検索', event: 'イベント', regular: '通常価格', groupCopy: 'グループコピー', itemCopy: 'コピー', copied: 'コピー済', copyAll: '全てコピー', copySelected: '選択コピー', empty: '検索結果がありません。', count: (g, t) => `${g}グループ · 合計${t}件` },
+  cn: { title: 'DIORE CS 价格搜索', updated: '更新时间', reload: '刷新', search: '项目或关键词 (例如: 丽珠兰 2cc, 肉毒素)', hint: '使用空格搜索多个关键词', event: '活动价', regular: '正常价', groupCopy: '复制组', itemCopy: '复制', copied: '已复制', copyAll: '复制全部', copySelected: '复制所选', empty: '无搜索结果。', count: (g, t) => `${g}组 · 共${t}项` },
+  th: { title: 'DIORE CS ค้นหาราคา', updated: 'อัปเดตล่าสุด', reload: 'รีโหลด', search: 'ชื่อหัตถการหรือคีย์เวิร์ด (เช่น Rejuran 2cc, Botox)', hint: 'ใช้ space เพื่อค้นหาหลายคำพร้อมกัน', event: 'อีเวนต์', regular: 'ราคาปกติ', groupCopy: 'คัดลอกกลุ่ม', itemCopy: 'คัดลอก', copied: 'คัดลอกแล้ว', copyAll: 'คัดลอกทั้งหมด', copySelected: 'คัดลอกที่เลือก', empty: 'ไม่พบผลลัพธ์', count: (g, t) => `${g} กลุ่ม · ${t} รายการ` },
+};
+function t() { return I18N[CURRENT_LANG] || I18N.ko; }
 
 async function loadData() {
   try {
-    // 1) 같은 폴더의 prices.json을 먼저 시도 (HTTP 호스팅 환경)
     let data = null;
     try {
       const res = await fetch('prices.json?v=' + Date.now());
       if (res.ok) data = await res.json();
-    } catch (_) { /* fetch 실패(file:// 등) → embed 사용 */ }
+    } catch (_) {}
 
-    // 2) 실패하면 HTML에 내장된 데이터 사용 (로컬 더블클릭 환경)
     if (!data) {
       const embed = document.getElementById('embedded-data');
       if (embed && embed.textContent.trim()) data = JSON.parse(embed.textContent);
     }
 
     if (!data) throw new Error('가격 데이터를 찾을 수 없습니다');
+
+    // 구 포맷(평면 event/regular) → 신 포맷(languages.ko)로 통일
+    if (!data.languages && (data.event || data.regular)) {
+      data = {
+        updated_at: data.updated_at,
+        languages: { ko: { name: '한국어', event: data.event || [], regular: data.regular || [] } },
+      };
+    }
     DATA = data;
+
+    // 사용자가 마지막으로 선택한 언어 복원
+    const saved = localStorage.getItem('diore-lang');
+    if (saved && DATA.languages[saved]) CURRENT_LANG = saved;
+    else if (!DATA.languages[CURRENT_LANG]) CURRENT_LANG = Object.keys(DATA.languages)[0];
+
+    applyI18n();
+    renderLangTabs();
 
     const d = new Date(DATA.updated_at);
     document.getElementById('updated-at').textContent =
@@ -2344,6 +2389,42 @@ async function loadData() {
     document.getElementById('status').innerHTML =
       '<div class="error">데이터 로드 실패: ' + e.message + '</div>';
   }
+}
+
+function renderLangTabs() {
+  const container = document.getElementById('lang-tabs');
+  const codes = LANG_ORDER.filter(c => DATA.languages[c]);
+  // LANG_ORDER에 없는 코드도 포함
+  Object.keys(DATA.languages).forEach(c => { if (!codes.includes(c)) codes.push(c); });
+  container.innerHTML = codes.map(code => {
+    const label = (DATA.languages[code] && DATA.languages[code].name) || LANG_LABEL[code] || code;
+    const active = code === CURRENT_LANG ? ' active' : '';
+    return `<button class="lang-btn${active}" data-lang="${code}" onclick="setLang('${code}')">${label}</button>`;
+  }).join('');
+}
+
+function setLang(code) {
+  if (!DATA.languages[code]) return;
+  CURRENT_LANG = code;
+  localStorage.setItem('diore-lang', code);
+  applyI18n();
+  renderLangTabs();
+  doSearch();
+}
+
+function applyI18n() {
+  const s = t();
+  document.title = s.title;
+  document.querySelector('h1').textContent = s.title;
+  document.getElementById('updated-label').textContent = s.updated + ':';
+  document.getElementById('reload-btn').textContent = s.reload;
+  document.getElementById('search').placeholder = s.search;
+  document.getElementById('hint').textContent = s.hint;
+  document.getElementById('copy-all').textContent = s.copyAll;
+  // 선택 복사는 숫자 span 유지
+  const copySel = document.getElementById('copy-selected');
+  const n = copySel.querySelector('#selected-count')?.textContent || '0';
+  copySel.innerHTML = `${s.copySelected} (<span id="selected-count">${n}</span>)`;
 }
 
 // 시술명 매칭 (모든 검색어가 포함되어야 함, 대소문자 무시, 공백 제거)
@@ -2373,12 +2454,12 @@ function doSearch() {
   const q = document.getElementById('search').value.trim();
   const tokens = q.toLowerCase().split(/\s+/).filter(Boolean);
   const results = [];
+  const langData = (DATA && DATA.languages && DATA.languages[CURRENT_LANG]) || { event: [], regular: [] };
 
   for (const type of ['event', 'regular']) {
-    for (const group of (DATA[type] || [])) {
+    for (const group of (langData[type] || [])) {
       const matchedItems = [];
       for (const item of group.items) {
-        // 검색: 시술명 + 그룹명 + 카테고리를 합친 텍스트에 매칭
         const combined = [item.name, group.group, group.category].join(' ');
         if (!tokens.length || matches(combined, tokens)) {
           matchedItems.push(item);
@@ -2401,31 +2482,33 @@ function renderResults(results, tokens) {
   const copyBtn = document.getElementById('copy-all');
 
   const totalItems = results.reduce((s, g) => s + g.items.length, 0);
+  const i18n = t();
 
   if (!results.length) {
     countBox.style.display = 'none';
-    container.innerHTML = '<div class="empty">검색 결과가 없습니다.</div>';
+    container.innerHTML = `<div class="empty">${i18n.empty}</div>`;
     return;
   }
 
   countBox.style.display = 'block';
-  countText.textContent = `${results.length}개 그룹 · 총 ${totalItems}개 시술`;
+  countText.textContent = i18n.count(results.length, totalItems);
   copyBtn.disabled = false;
 
+  const s = t();
   container.innerHTML = results.map((g, gi) => `
     <div class="group" data-gi="${gi}">
       <div class="group-title">
-        <span class="badge ${g.type}">${g.type === 'event' ? '이벤트' : '정상가'}</span>
+        <span class="badge ${g.type}">${g.type === 'event' ? s.event : s.regular}</span>
         <span class="badge cat">${escapeHtml(g.category)}</span>
         <span>${highlight(g.group, tokens)}</span>
-        <button class="copy-btn" onclick="copyGroup(${gi}, this)">그룹 복사</button>
+        <button class="copy-btn" onclick="copyGroup(${gi}, this)">${s.groupCopy}</button>
       </div>
       ${g.items.map((it, ii) => `
         <div class="item">
           <input type="checkbox" class="item-check" data-gi="${gi}" data-ii="${ii}" onchange="onCheckChange()" />
           <span class="item-name">${highlight(it.name, tokens)}</span>
           <span class="item-price ${g.type === 'event' ? 'event' : ''}">${escapeHtml(it.price)}</span>
-          <button class="item-copy" onclick="copyItem(${gi}, ${ii}, this)" title="이 항목만 복사">복사</button>
+          <button class="item-copy" onclick="copyItem(${gi}, ${ii}, this)">${s.itemCopy}</button>
         </div>
       `).join('')}
     </div>
@@ -2435,7 +2518,8 @@ function renderResults(results, tokens) {
 }
 
 function formatGroup(g) {
-  const header = `[${g.type === 'event' ? '이벤트' : '정상가'}] ${g.group}`;
+  const s = t();
+  const header = `[${g.type === 'event' ? s.event : s.regular}] ${g.group}`;
   const lines = [header];
   for (const it of g.items) lines.push(`  · ${it.name} — ${it.price}`);
   return lines.join('\n');
@@ -2485,7 +2569,7 @@ function onCheckChange() {
 function copySelected() {
   const checks = document.querySelectorAll('.item-check:checked');
   if (!checks.length) return;
-  // gi별로 묶어서 포맷 (그룹별 헤더 + 선택된 항목만)
+  const s = t();
   const byGroup = new Map();
   checks.forEach(cb => {
     const gi = +cb.dataset.gi;
@@ -2496,14 +2580,14 @@ function copySelected() {
   const blocks = [];
   for (const [gi, iis] of byGroup) {
     const g = LAST_RESULTS[gi];
-    const lines = [`[${g.type === 'event' ? '이벤트' : '정상가'}] ${g.group}`];
+    const lines = [`[${g.type === 'event' ? s.event : s.regular}] ${g.group}`];
     for (const ii of iis) {
       const it = g.items[ii];
       lines.push(`  · ${it.name} — ${it.price}`);
     }
     blocks.push(lines.join('\n'));
   }
-  doCopy(blocks.join('\n\n'), document.getElementById('copy-selected'), '복사됨!');
+  doCopy(blocks.join('\n\n'), document.getElementById('copy-selected'), s.copied);
 }
 
 document.getElementById('search').addEventListener('input', doSearch);
