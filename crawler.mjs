@@ -68,7 +68,15 @@ async function getCategories(lang, pageType) {
   });
   const html = await fetchHTML(`${lang.base}/index.php?${params.toString()}`);
   const $ = load(html);
-  return $('#main_ct_lstd > div').map((_, el) => $(el).text().trim().replace(/\s+/g, ' ')).get().filter(Boolean);
+  // 각 카테고리는 표시 라벨과 별도의 API 키를 가질 수 있음 (예: 일본어 "時短パス" → API key "FAST TRACK").
+  // onclick 내 jframe 호출의 category 파라미터에서 실제 API 키를 추출.
+  return $('#main_ct_lstd > div').map((_, el) => {
+    const onclick = $(el).attr('onclick') || '';
+    const display = $(el).text().trim().replace(/\s+/g, ' ');
+    const m = onclick.match(/jframe\([^,]*?[?&]category=([^&']+)[^']*','cartresv2lst_dsp/);
+    const apiKey = m ? decodeURIComponent(m[1].replace(/\+/g, ' ')) : display;
+    return { apiKey, display };
+  }).get().filter(c => c.apiKey && c.display);
 }
 
 async function crawlLanguage(lang) {
@@ -78,14 +86,14 @@ async function crawlLanguage(lang) {
     const categories = await getCategories(lang, pageType);
     console.log(`  [${lang.code}/${pageType}] ${categories.length}개 카테고리`);
     for (const cat of categories) {
-      const listHtml = await fetchHTML(buildUrl(lang.base, page, { exec: 'prod_lst', category: cat }));
+      const listHtml = await fetchHTML(buildUrl(lang.base, page, { exec: 'prod_lst', category: cat.apiKey }));
       const groups = parseItems(listHtml);
       for (const g of groups) {
         if (!g.groupId) continue;
         const viewHtml = await fetchHTML(buildUrl(lang.base, page, { exec: 'prod_view', id: g.groupId }));
         const items = parseItems(viewHtml).filter(i => i.price && !/부터$|\+$/.test(i.price));
         result[pageType].push({
-          category: cat,
+          category: cat.display,
           group: g.title,
           groupPriceFrom: g.price,
           items: items.map(i => ({ name: i.title, price: i.price })),
