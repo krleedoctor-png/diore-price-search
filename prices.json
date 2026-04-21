@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T23:28:43.532Z",
+  "updated_at": "2026-04-21T23:09:03.580Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -890,11 +890,11 @@
               "price": "799,000원"
             },
             {
-              "name": "아이올리지오 200샷",
+              "name": "아이올리지오 100샷",
               "price": "249,000원"
             },
             {
-              "name": "아이올리지오 300샷",
+              "name": "아이올리지오 200샷",
               "price": "459,000원"
             }
           ]
@@ -3085,11 +3085,11 @@
           "groupPriceFrom": "159,000KRW +",
           "items": [
             {
-              "name": "Eye Oligio 300 shots",
+              "name": "Eye Oligio 200 shots",
               "price": "459,000KRW"
             },
             {
-              "name": "Eye Oligio 200 shots",
+              "name": "Eye Oligio 100 shots",
               "price": "249,000KRW"
             },
             {
@@ -10595,11 +10595,11 @@
           "groupPriceFrom": "159,000KRW +",
           "items": [
             {
-              "name": "Eye Oligio 300 ช็อต",
+              "name": "Eye Oligio 200 ช็อต",
               "price": "459,000KRW"
             },
             {
-              "name": "Eye Oligio 200 ช็อต",
+              "name": "Eye Oligio 100 ช็อต",
               "price": "249,000KRW"
             },
             {
