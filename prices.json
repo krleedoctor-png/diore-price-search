@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T21:37:32.653Z",
+  "updated_at": "2026-05-04T21:56:34.024Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -67,6 +67,10 @@
             },
             {
               "name": "[패스트트랙] GA필 1회",
+              "price": "69,000원"
+            },
+            {
+              "name": "[패스트트랙] 라라필 1회",
               "price": "69,000원"
             },
             {
@@ -2213,6 +2217,10 @@
             },
             {
               "name": "[Fast Track] GA Peel (1 session)",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[Fast Track] LHALA Peel (1 session)",
               "price": "69,000KRW"
             },
             {
@@ -7079,7 +7087,7 @@
               "price": "45,000KRW"
             },
             {
-              "name": "[FAST] PLA焕肤/ GA焕肤",
+              "name": "[FAST] PLA焕肤/ GA焕肤 / LHALA焕肤",
               "price": "69,000KRW"
             },
             {
@@ -9437,6 +9445,10 @@
             },
             {
               "name": "[Fast Track] GA พีล (1 ครั้ง)",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[Fast Track] LHALA พีล (1 ครั้ง)",
               "price": "69,000KRW"
             },
             {
