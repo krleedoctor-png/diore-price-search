@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T22:06:59.625Z",
+  "updated_at": "2026-05-14T22:06:51.803Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -4507,6 +4507,134 @@
             {
               "name": "骨盤フィラー打ち放題 (韓国産)",
               "price": "2,500,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "サラサラボトックス",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) サラサラ多汗症ボトックス100ユニット",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ボディートーニング",
+          "groupPriceFrom": "69,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) 脇・肘トーニング 1回",
+              "price": "69,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ボディーボトックス",
+          "groupPriceFrom": "65,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) ボディーボトックス(韓国産) 100ユニット",
+              "price": "65,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ボディーボトックス(ドイツ産) 100ユニット",
+              "price": "169,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ボディー脂肪ケア",
+          "groupPriceFrom": "690,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) ボディーオンダ 100kJ",
+              "price": "690,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ボディリフトアップ",
+          "groupPriceFrom": "390,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) ボディーシュリンクユニバース 600ショット",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ボディークールソニック 5000ショット",
+              "price": "1,290,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ボディーウルセラピープライム600ショット",
+              "price": "2,590,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ONEDAY 毛穴なめらか対策",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) アクアピーリング＋ スキンボトックス(韓国産) 2cc ＋ クライオ 5分",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ララピール ＋ スキンボトックス(韓国産) 2cc ＋ クライオ 5分",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ポテンツァ(CPチップ) ＋ エクソソームASCE＋ ジェネシス ＋ スキンボトックス(韓国産) 2cc ＋ クライオ 5分",
+              "price": "389,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ウィコウノ ＋ ジェネシス ＋ ジュベルックスキン 2cc ＋ スキンボトックス(韓国産) 2cc ＋ クライオ 5分",
+              "price": "489,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ONEDAY ドレスフィット対策",
+          "groupPriceFrom": "155,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) 【二の腕】 二の腕ボトックス(韓国産) 100ユニット ＋ 副乳脂肪分解注射 100cc",
+              "price": "155,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) 【オフショルダー】 広頚筋ボトックス(韓国産) ＋ スリムネックボトックス(韓国産)",
+              "price": "175,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) 【直角肩】 僧帽筋ボトックス(韓国産)  100ユニット＋ 肩フィラー(韓国産)  10cc",
+              "price": "765,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🌴SUMMER対策🌴",
+          "group": "ONEDAY ボディーリセット対策",
+          "groupPriceFrom": "1,990,000KRW +",
+          "items": [
+            {
+              "name": "SUMMER☀️) ボディーオンダ 100kJ ＋ ボディークールソニック 5000ショット ＋ ボディーボトックス (韓国産) 100ユニット",
+              "price": "1,990,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ボディーオンダ 100kJ ＋ ボディークールソニック 5000ショット ＋ ボディー脂肪分解注射 150cc",
+              "price": "2,050,000KRW"
+            },
+            {
+              "name": "SUMMER☀️) ボディーオンダ 150kJ ＋ ボディークールソニック 10000ショット ＋ ボディー脂肪分解注射 150cc",
+              "price": "3,500,000KRW"
             }
           ]
         },
