@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T21:51:36.849Z",
+  "updated_at": "2026-05-18T22:00:08.251Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -2391,7 +2391,7 @@
               "price": "990,000KRW"
             },
             {
-              "name": "Unlimited Hip Filler (Korean)",
+              "name": "Unlimited Hip dip Filler (Korean)",
               "price": "2,500,000KRW"
             },
             {
@@ -7409,6 +7409,10 @@
           "groupPriceFrom": "45,000KRW +",
           "items": [
             {
+              "name": "[迪奥丽 唇部套餐] 水润嘭弹 1CC (韩国产 LENA)",
+              "price": "45,000KRW"
+            },
+            {
               "name": "嘴唇+嘴角/法令纹/下巴 Lenafill (本土)",
               "price": "45,000KRW"
             },
@@ -7584,6 +7588,92 @@
             {
               "name": "美白套餐(色素V激光+红血丝V激光+皮秒激光+Pla焕肤+LDM 6分钟+泥膜)",
               "price": "289,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "迪奥丽夏季活动☀️",
+          "group": "SUMMER BODY EVENT",
+          "groupPriceFrom": "65,000KRW +",
+          "items": [
+            {
+              "name": "[身体亮肤] 腋下/手肘提亮 1次",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[身体肉毒] 韩国产(NEWLUX) 100U",
+              "price": "65,000KRW"
+            },
+            {
+              "name": "[身体肉毒] 德国 西马 100U",
+              "price": "169,000KRW"
+            },
+            {
+              "name": "[多汗症肉毒] 韩国产 NEWLUX 100U(手/脚/腋下/头皮)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[身体溶脂] BODY ONDA 100KJ (一次体验价)",
+              "price": "690,000KRW"
+            },
+            {
+              "name": "[身体紧致] 韩版超声刀 600发 / 海芙音波 600發",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "[身体紧致] BODY CoolSoniq 5000发",
+              "price": "1,290,000KRW"
+            },
+            {
+              "name": "[身体紧致] 美版超声刀 600发 / 美國極限音波 600發",
+              "price": "2,590,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "迪奥丽夏季活动☀️",
+          "group": "SUMMER ONEDAY EVENT",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "[细致毛孔套餐] 小气泡清洁(1,2步骤)+皮肤肉毒 2cc 韩国产(蝴蝶区)+镇定管理 5分钟",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "[细致毛孔套餐] LHALA焕肤基础+皮肤肉毒 2cc 韩国产(蝴蝶区)+镇定管理 5分钟",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[细致毛孔套餐] 黄金微针(pumping)+外泌体(ASCE+)+Genesis激光+皮肤肉毒 2cc 韩国产(蝴蝶区)+镇定管理 5分钟",
+              "price": "389,000KRW"
+            },
+            {
+              "name": "[细致毛孔套餐] WiQO UNO+Genesis激光+Juvelook Skin 2cc+皮肤肉毒 2cc 韩国产(蝴蝶区)+镇定管理 5分钟",
+              "price": "489,000KRW"
+            },
+            {
+              "name": "[礼服体型套餐]  [手臂] 手臂肉毒 韩国产(NEWLUX)100U+ 副乳脂肪 溶脂针100cc",
+              "price": "155,000KRW"
+            },
+            {
+              "name": "[礼服体型套餐] [露肩] 斜方肌肉毒(韩国产)+颈部修饰肉毒(韩国产)",
+              "price": "175,000KRW"
+            },
+            {
+              "name": "[礼服体型套餐]  [直角肩] 斜方肌肉毒 100U 韩国产(NEWLUX)+肩部填充10cc(韩国产)",
+              "price": "765,000KRW"
+            },
+            {
+              "name": "[身体重塑套餐] 身体 ONDA 100kJ+身体 CoolSoniq 5000发+身体肉毒100U(韩国产 NEWLUX)",
+              "price": "1,990,000KRW"
+            },
+            {
+              "name": "[身体重塑套餐]  身体 ONDA 100kJ+身体CoolSoniq 5000发+身体溶脂针150cc",
+              "price": "2,050,000KRW"
+            },
+            {
+              "name": "[身体重塑套餐] 身体 ONDA 150kJ+身体 CoolSoniq 10000发+身体溶脂针150cc",
+              "price": "3,500,000KRW"
             }
           ]
         },
@@ -9098,11 +9188,11 @@
         },
         {
           "category": "焕肤（刷酸）",
-          "group": "Lala焕肤",
+          "group": "LHALA焕肤",
           "groupPriceFrom": "79,000KRW +",
           "items": [
             {
-              "name": "Lala焕肤 单次",
+              "name": "LHALA焕肤 单次",
               "price": "79,000KRW"
             }
           ]
