@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T22:00:08.251Z",
+  "updated_at": "2026-05-19T22:12:27.001Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -2409,6 +2409,186 @@
           ]
         },
         {
+          "category": "☀️SUMMER EVENT",
+          "group": "SUMMER BODY EVENT",
+          "groupPriceFrom": "65,000KRW +",
+          "items": [
+            {
+              "name": "[Body Toning] Underarm/Elbow Toning (1 session)",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[Bodybotox] Domestic Newlux per 100 units",
+              "price": "65,000KRW"
+            },
+            {
+              "name": "[Bodybotox] German Xeomin per 100 units",
+              "price": "169,000KRW"
+            },
+            {
+              "name": "[Hyperhidrosis] Domestic Newlux per 100 units (Hands/Feet/Underarms/Scalps)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[Body Contouring] BODY ONDA 100KJ (Trial Price)",
+              "price": "690,000KRW"
+            },
+            {
+              "name": "[Body Firming] Body Shurink 600 shots",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "[Body Firming] Body Coolsoniq 5000 shots",
+              "price": "1,290,000KRW"
+            },
+            {
+              "name": "[Body Firming] Body Ultherapy 600 shots",
+              "price": "2,590,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "☀️SUMMER EVENT",
+          "group": "SUMMER ONEDAY EVENT",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "[Smooth Pores Package] Aqua Peel (Steps 1 & 2) + Skin Botox 2cc (Domestic, Cheek) + Cryo Care 5min",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] LHALA Peel Basic + Skin Botox 2cc (Domestic, Cheek) + Cryo Care 5min",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] Potenza Pumping + Exosome(ASCE+) + Genesis + Skin Botox 2cc (Domestic, Cheek) + Cryo Care 5min",
+              "price": "389,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] WiQo Uno + Genesis + Juvelook Skin 2cc + Skin Botox 2cc (Domestic, Cheek) + Cryo Care 5min",
+              "price": "489,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Upper Arms] Upper Arm Botox 100 units (Domestic Newlux) + Accessory Breast Fat Dissolving Injection 100cc",
+              "price": "155,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Off-Shoulder] Platysma Botox (Domestic) + Slim Neck Botox (Domestic)",
+              "price": "175,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Right-Angle Shoulder] Trapezius Botox 100 units (Domestic Newlux) + Shoulder Filler 10cc (Domestic)",
+              "price": "765,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] Body ONDA 100kJ + Body CoolSoniq 5,000 shots + Body Botox 100 units (Domestic Newlux)",
+              "price": "1,990,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] Body ONDA 100kJ + Body CoolSoniq 5,000 shots + Body Fat Dissolving Injection 150cc",
+              "price": "2,050,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] Body ONDA 100kJ + Body CoolSoniq 10,000 shots + Body Fat Dissolving Injection 150cc",
+              "price": "3,500,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎Tue·Wed·Thu Only",
+          "group": "🎉99,000KRW Freepass",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "[99,000] InMode FX (Cheeks + Double Chin)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] InMode Forma (Cheeks + Double Chin)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Skinbotox 4cc (Newlux, Domestic brand)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Potenza N-Tip (Tip fee included)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Face D-Cut (Facial Fat Dissolving Injection) 10cc",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Shurink Universe MP Mode 300 Shots",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Shurink Universe Booster Mode 300 Shots",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] PicoToning+Genesis+Glutathione IV+Modeling Mask",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Mega Glutathione (Vitamin B + C + Glutathione)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Recovery IV (Glycyrrhizin + Garlic Injection)",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎Tue·Wed·Thu Only",
+          "group": "🎉189,000KRW Freepass",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "[189,000] Juvelook Skin 3cc (Manual Injection)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000]  LHALA Toning Package(LHALA Peel+Pico Toning+Iontophoresis+Maskpack)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Double Chin CoolSoniq 1000 Shots",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Oligio (Face / Eyes) 100 Shots",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Pigmentation Package (V-Laser+Genesis+SonoCare 5min+Recovery Cream)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Innertide Exosome Skincare",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Eve Titan (Select 1 Mode / 10 min)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] REJURAN HEALER 2cc (Manual Injection)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Potenza (Pumping Tip) + PDRN 3cc + CryoCare",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Wiqo Uno",
+              "price": "189,000KRW"
+            }
+          ]
+        },
+        {
           "category": "Skin Tightening & Lifting",
           "group": "Ultherapy Prime",
           "groupPriceFrom": "150,000KRW +",
@@ -4388,53 +4568,6 @@
         },
         {
           "category": "今月イベント",
-          "group": "スキン·コラーゲンブースター",
-          "groupPriceFrom": "79,000KRW +",
-          "items": [
-            {
-              "name": "リズネ 2cc",
-              "price": "79,000KRW"
-            },
-            {
-              "name": "ジュベルックスキン 2cc",
-              "price": "169,000KRW"
-            },
-            {
-              "name": "リジュランヒーラー 2㏄",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "リバイブ 1cc",
-              "price": "350,000KRW"
-            },
-            {
-              "name": "ジュベルックボリューム 2cc",
-              "price": "240,000KRW"
-            },
-            {
-              "name": "ジュベルックボリューム 1vial",
-              "price": "490,000KRW"
-            },
-            {
-              "name": "レディエッセ 1シリンジ",
-              "price": "790,000KRW"
-            },
-            {
-              "name": "レディエッセ 3シリンジ",
-              "price": "1,990,000KRW"
-            },
-            {
-              "name": "スカルプトラ 1vial",
-              "price": "890,000KRW"
-            },
-            {
-              "name": "スカルプトラ 2vial",
-              "price": "1,650,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "今月イベント",
           "group": "ポテンツァコラボパッケージ",
           "groupPriceFrom": "189,000KRW +",
           "items": [
@@ -5686,6 +5819,53 @@
         },
         {
           "category": "フィラー",
+          "group": "スキン·コラーゲンブースター",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "リズネ 2cc",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "ジュベルックスキン 2cc",
+              "price": "169,000KRW"
+            },
+            {
+              "name": "リジュランヒーラー 2㏄",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "リバイブ 1cc",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "ジュベルックボリューム 2cc",
+              "price": "240,000KRW"
+            },
+            {
+              "name": "ジュベルックボリューム 1vial",
+              "price": "490,000KRW"
+            },
+            {
+              "name": "レディエッセ 1シリンジ",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "レディエッセ 3シリンジ",
+              "price": "1,990,000KRW"
+            },
+            {
+              "name": "スカルプトラ 1vial",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "スカルプトラ 2vial",
+              "price": "1,650,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "フィラー",
           "group": "スカルプトラ",
           "groupPriceFrom": "890,000KRW +",
           "items": [
@@ -5842,6 +6022,17 @@
             {
               "name": "ボディ）レナフィル（韓国産） 1ccあたり",
               "price": "70,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "フィラー",
+          "group": "モニターリング特価)唇ヒアルロン酸フィラー",
+          "groupPriceFrom": "45,000KRW +",
+          "items": [
+            {
+              "name": "モニターリング特価) 唇ヒアルロン酸 (韓国産) 1cc",
+              "price": "45,000KRW"
             }
           ]
         },
@@ -7592,7 +7783,7 @@
           ]
         },
         {
-          "category": "迪奥丽夏季活动☀️",
+          "category": "☀️迪奥丽夏季活动",
           "group": "SUMMER BODY EVENT",
           "groupPriceFrom": "65,000KRW +",
           "items": [
@@ -7631,7 +7822,7 @@
           ]
         },
         {
-          "category": "迪奥丽夏季活动☀️",
+          "category": "☀️迪奥丽夏季活动",
           "group": "SUMMER ONEDAY EVENT",
           "groupPriceFrom": "79,000KRW +",
           "items": [
@@ -7674,6 +7865,100 @@
             {
               "name": "[身体重塑套餐] 身体 ONDA 150kJ+身体 CoolSoniq 10000发+身体溶脂针150cc",
               "price": "3,500,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎周二周三周四活动",
+          "group": "🎉9.9万韩元 自由任选券",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "[9.9万] InMode FX 脸颊 + 双下巴",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] InMode Forma 脸颊 + 双下巴",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] 全脸表皮肉毒 4cc (Newlux, 韩国产)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] Potenza 黄金微针 N探头 (含探头费)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] Face D-Cut 脸部溶脂针 10cc",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] Shurink Universe 韩版超声刀 MP模式 300发",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] Shurink Universe 韩版超声刀 Booster模式 300发",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] 皮秒激光+Genesis激光+白玉针+泥膜",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] 高浓度美白针 (维他命B+C+白玉)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[9.9万] 修复点滴 (甘草针 ＋ 大蒜针)",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎周二周三周四活动",
+          "group": "🎉18.9万韩元 自由任选券",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "[18.9万] Juvelook Skin 3cc (手打)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] LHALA焕肤皮秒套装 (LHALA Peel ＋ 皮秒 ＋ 离子导入 ＋ 面膜)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] 双下巴 CoolSoniq 1000发",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] Oligio 韩版热玛吉(脸部/眼周) 100发",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] 净白淡斑套装 (V激光+Genesis激光+SonoCare5分钟+再生霜)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] Innertide 外泌体 Skincare",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] Eve Titan (任选1种模式／10分钟)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] 丽珠兰黑盒 2cc (手打)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] Potenza 黄金微针(Pumping探头)+PDRN 3cc+Cryo",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[18.9万] Wiqo Uno",
+              "price": "189,000KRW"
             }
           ]
         },
@@ -9851,6 +10136,186 @@
             {
               "name": "แพ็กเกจร่องแก้มลึก 2 Belotero 1 cc + ร่องแก้ม แจมเบอร์ 2เส้น",
               "price": "380,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "☀️SUMMER EVENT",
+          "group": "SUMMER BODY EVENT",
+          "groupPriceFrom": "65,000KRW +",
+          "items": [
+            {
+              "name": "[Body Toning] เลเซอร์ลดรอยดำรักแร้/ข้อศอก (1 ครั้ง)",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "[Bodybotox] โบท็อกซ์ตัว โบฮ่องกง (Domestic Newlux) 100 ยูนิต",
+              "price": "65,000KRW"
+            },
+            {
+              "name": "[Bodybotox] โบท็อกซ์ตัว โบเยอรมัน (German Xeomin) 100 ยูนิต",
+              "price": "169,000KRW"
+            },
+            {
+              "name": "[Hyperhidrosis] โบท็อกซ์ลดเหงื่อ โบฮ่องกง (Domestic Newlux) 100 ยูนิต (มือ/เท้า/รักแร้/หนังศีรษะ)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[Body Contouring] ยกกระชับสัดส่วน BODY ONDA 100KJ (ราคาทดลอง)",
+              "price": "690,000KRW"
+            },
+            {
+              "name": "[Body Firming] กระชับผิวกาย Body Shurink 600 ช็อต",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "[Body Firming] กระชับผิวกาย Body Coolsoniq 5000 ช็อต",
+              "price": "1,290,000KRW"
+            },
+            {
+              "name": "[Body Firming] กระชับผิวกาย Body Ultherapy 600 ช็อต",
+              "price": "2,590,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "☀️SUMMER EVENT",
+          "group": "SUMMER ONEDAY EVENT",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "[Smooth Pores Package] Aqua Peel (Steps 1 & 2) + โบหน้าใส Skin Botox 2cc (โบเกาหลี/แก้ม) + Cryo Care 5 นาที",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] LHALA Peel สูตร Basic + โบหน้าใส Skin Botox 2cc (โบเกาหลี/แก้ม) + Cryo Care 5 นาที",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] Potenza Pumping + เอ็กโซโซม (ASCE+) + Genesis + โบหน้าใส Skin Botox 2cc (โบเกาหลี/แก้ม) + Cryo Care 5 นาที",
+              "price": "389,000KRW"
+            },
+            {
+              "name": "[Smooth Pores Package] WiQo Uno + Genesis + Juvelook Skin 2cc + โบหน้าใส Skin Botox 2cc (โบเกาหลี/แก้ม) + Cryo Care 5 นาที",
+              "price": "489,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Upper Arms] โบท็อกซ์ต้นแขน โบเกาหลี 100 ยูนิต (โบเกาหลี) + ฉีดแฟตลดไขมันส่วนเกินแถมฟรี 100cc",
+              "price": "155,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Off-Shoulder] โบท็อกซ์บ่า (Platysma Botox โบเกาหลี) + โบท็อกซ์ลดคอระหง Slim Neck Botox (โบเกาหลี)",
+              "price": "175,000KRW"
+            },
+            {
+              "name": "[Dress Fit Package] [Right-Angle Shoulder] โบท็อกซ์บ่า (Trapezius Botox) 100 ยูนิต (โบเกาหลี) + ฟิลเลอร์บ่า 10cc (โบเกาหลี)",
+              "price": "765,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] ยกกระชับสัดส่วน Body ONDA 100kJ + Body CoolSoniq 5,000 ช็อต + โบท็อกซ์ตัว Body Botox 100 ยูนิต (โบเกาหลี)",
+              "price": "199,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] ยกกระชับสัดส่วน Body ONDA 100kJ + Body CoolSoniq 5,000 ช็อต + ฉีดแฟตสลายไขมันผิวกาย 150cc",
+              "price": "2,050,000KRW"
+            },
+            {
+              "name": "[Body Reset Package] ยกกระชับสัดส่วน Body ONDA 100kJ + Body CoolSoniq 10,000 ช็อต + ฉีดแฟตสลายไขมันผิวกาย 150cc",
+              "price": "3,500,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎Tue·Wed·Thu Only",
+          "group": "🎉99,000KRW Freepass",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "[99,000] InMode FX (Cheeks + Double Chin)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] InMode Forma (Cheeks + Double Chin)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Skinbotox 4cc (Newlux, ผลิตภัณฑ์เกาหลี)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Potenza N-Tip (รวมค่าทิปแล้ว)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Face D-Cut (สลายไขมันใบหน้า) 10cc",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Shurink Universe MP Mode 300 Shots",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Shurink Universe Booster Mode 300 Shots",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] PicoToning+Genesis+Glutathione IV+Modeling Mask",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Mega Glutathione (Vitamin B + C + Glutathione)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "[99,000] Recovery IV (Glycyrrhizin + Garlic Injection)",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "😎Tue·Wed·Thu Only",
+          "group": "🎉189,000KRW Freepass",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "[189,000] Juvelook Skin 3cc (Manual Injection)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000]  LHALA Toning Package(LHALA Peel+Pico Toning+Iontophoresis+Maskpack)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Double Chin CoolSoniq 1000 Shots",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Oligio (Face / Eyes) 100 Shots",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Pigmentation Package (V-Laser+Genesis+SonoCare 5min+Recovery Cream)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Innertide Exosome Skincare",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Eve Titan (เลือก 1 โหมด / 10 นาที)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] REJURAN HEALER 2cc (Manual Injection)",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Potenza (Pumping Tip) + PDRN 3cc + CryoCare",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[189,000] Wiqo Uno",
+              "price": "189,000KRW"
             }
           ]
         },
