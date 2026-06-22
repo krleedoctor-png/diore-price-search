@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:09:55.839Z",
+  "updated_at": "2026-06-22T22:43:35.298Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -4929,6 +4929,152 @@
           ]
         },
         {
+          "category": "🍑HAPPY TIME🍑",
+          "group": "✨Step1 肌コンディション回復",
+          "groupPriceFrom": "70,000KRW +",
+          "items": [
+            {
+              "name": "HAPPY TIME🍑) リズネ 2cc",
+              "price": "70,000KRW"
+            },
+            {
+              "name": "HAPPY TIME🍑) 水光注射 2.5cc",
+              "price": "70,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🍑HAPPY TIME🍑",
+          "group": "✨Step2 美白＋鎮静",
+          "groupPriceFrom": "170,000KRW +",
+          "items": [
+            {
+              "name": "HAPPY TIME🍑) ウィコウノ＋LDM",
+              "price": "170,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🍑HAPPY TIME🍑",
+          "group": "✨Step3 フェイスライン整え",
+          "groupPriceFrom": "220,000KRW +",
+          "items": [
+            {
+              "name": "HAPPY TIME🍑) フェイスオンダ 60kJ",
+              "price": "220,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🍑HAPPY TIME🍑",
+          "group": "✨Step4 ハリ・弾力シナジー",
+          "groupPriceFrom": "280,000KRW +",
+          "items": [
+            {
+              "name": "HAPPY TIME🍑) オリジオ 300ショット",
+              "price": "280,000KRW"
+            },
+            {
+              "name": "HAPPY TIME🍑) シュリンクユニバース 1000ショット",
+              "price": "280,000KRW"
+            },
+            {
+              "name": "HAPPY TIME🍑) イブタイタン 20分",
+              "price": "280,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "火・水・木EVENT",
+          "group": "👗9.9EVENT👗",
+          "groupPriceFrom": "99,000KRW +",
+          "items": [
+            {
+              "name": "👗 EVENT) インモードFX(全顔)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT)  ポテンツァNチップ(チップ代込み)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) アクアピーリング(1・2・3剤)＋クライオ",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) シュリンクユニバース(MPモード)300ショット",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) シュリンクユニバース(ブースターモード)300ショット",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) メガ白玉注射(ビタミンB・C＋白玉注射)",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) ピコトーニング＋ジェネシス＋白玉注射＋モデリングパック",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) リカバリー点滴",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) Dカット注射(二重顎) 10cc",
+              "price": "99,000KRW"
+            },
+            {
+              "name": "👗 EVENT) スキンボトックス (韓国産) 4cc",
+              "price": "99,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "火・水・木EVENT",
+          "group": "👠18.9 EVENT👠",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "👠EVENT) リジュラン2cc",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) ララトーニング",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) ポテンツァ (CPチップ) + PDRN＋クライオ",
+              "price": "198,000KRW"
+            },
+            {
+              "name": "👠EVENT) クールソニック(二重顎)1000ショット",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) オリジオ(フェイス or アイ)100ショット",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) インナータイドエクソソームスキンケア",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) ウィコウノ",
+              "price": "198,000KRW"
+            },
+            {
+              "name": "👠EVENT) 色素パッケージ",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "👠EVENT) イブタイタン(タイタン or プロモード）10分",
+              "price": "198,000KRW"
+            }
+          ]
+        },
+        {
           "category": "🌴SUMMER対策🌴",
           "group": "サラサラボトックス",
           "groupPriceFrom": "99,000KRW +",
@@ -5053,96 +5199,6 @@
             {
               "name": "SUMMER☀️) ボディーオンダ 150kJ ＋ ボディークールソニック 10000ショット ＋ ボディー脂肪分解注射 150cc",
               "price": "3,500,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "火・水・木EVENT",
-          "group": "👗9.9EVENT👗",
-          "groupPriceFrom": "99,000KRW +",
-          "items": [
-            {
-              "name": "👗 EVENT) インモードFX(全顔)",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT)  ポテンツァNチップ(チップ代込み)",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) アクアピーリング(1・2・3剤)＋クライオ",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) シュリンクユニバース(MPモード)300ショット",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) シュリンクユニバース(ブースターモード)300ショット",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) メガ白玉注射(ビタミンB・C＋白玉注射)",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) ピコトーニング＋ジェネシス＋白玉注射＋モデリングパック",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) リカバリー点滴",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) Dカット注射(二重顎) 10cc",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "👗 EVENT) スキンボトックス (韓国産) 4cc",
-              "price": "99,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "火・水・木EVENT",
-          "group": "👠18.9 EVENT👠",
-          "groupPriceFrom": "189,000KRW +",
-          "items": [
-            {
-              "name": "👠EVENT) リジュラン2cc",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) ララトーニング",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) ポテンツァ (CPチップ) + PDRN＋クライオ",
-              "price": "198,000KRW"
-            },
-            {
-              "name": "👠EVENT) クールソニック(二重顎)1000ショット",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) オリジオ(フェイス or アイ)100ショット",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) インナータイドエクソソームスキンケア",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) ウィコウノ",
-              "price": "198,000KRW"
-            },
-            {
-              "name": "👠EVENT) 色素パッケージ",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "👠EVENT) イブタイタン(タイタン or プロモード）10分",
-              "price": "198,000KRW"
             }
           ]
         },
