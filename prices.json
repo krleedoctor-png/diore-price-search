@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:08:45.882Z",
+  "updated_at": "2026-06-24T22:12:50.739Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -9360,6 +9360,25 @@
             {
               "name": "老顾客E) 除皱肉毒 (本土/NEWLUX) 任意三个部位",
               "price": "33,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "肉毒素",
+          "group": "英伦大提升",
+          "groupPriceFrom": "390,000KRW +",
+          "items": [
+            {
+              "name": "英伦大提升 韩国产 Coretox",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "英伦大提升 德国西马",
+              "price": "490,000KRW"
+            },
+            {
+              "name": "英伦大提升 美国保妥适",
+              "price": "590,000KRW"
             }
           ]
         },
