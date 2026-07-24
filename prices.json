@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:00:59.889Z",
+  "updated_at": "2026-07-24T22:00:57.157Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -267,6 +267,60 @@
           ]
         },
         {
+          "category": "✨도입특가✨",
+          "group": "[도입특가] 벨루티 BELLUTI",
+          "groupPriceFrom": "500,000원 부터",
+          "items": [
+            {
+              "name": "[EVENT] 벨루티 2패치",
+              "price": "500,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 이중턱 리셋 패키지",
+              "price": "689,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 팔자 리셋 패키지",
+              "price": "890,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 LIGHT",
+              "price": "710,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 BASIC",
+              "price": "990,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 PRO",
+              "price": "1,500,000원"
+            },
+            {
+              "name": "[EVENT] 벨루티 더블 리셋 패키지",
+              "price": "1,210,000원"
+            }
+          ]
+        },
+        {
+          "category": "✨도입특가✨",
+          "group": "[도입특가] 압토스(APTOS) 실리프팅",
+          "groupPriceFrom": "1,000,000원 부터",
+          "items": [
+            {
+              "name": "[런칭] 압토스 LL25 2줄",
+              "price": "1,000,000원"
+            },
+            {
+              "name": "[런칭] 압토스 LL50 2줄",
+              "price": "2,000,000원"
+            },
+            {
+              "name": "[런칭] 압토스 나미카 10줄",
+              "price": "3,000,000원"
+            }
+          ]
+        },
+        {
           "category": "☀️SUMMER EVENT",
           "group": "🏊‍♀️SUMMER BODY EVENT",
           "groupPriceFrom": "65,000원 부터",
@@ -478,60 +532,6 @@
             {
               "name": "[18.9만원] 위코우노",
               "price": "189,000원"
-            }
-          ]
-        },
-        {
-          "category": "탄력·리프팅",
-          "group": "[도입특가] 벨루티 BELLUTI",
-          "groupPriceFrom": "500,000원 부터",
-          "items": [
-            {
-              "name": "[EVENT] 벨루티 2패치",
-              "price": "500,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 이중턱 리셋 패키지",
-              "price": "689,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 팔자 리셋 패키지",
-              "price": "890,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 LIGHT",
-              "price": "710,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 BASIC",
-              "price": "990,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 눈밑 리셋 패키지 PRO",
-              "price": "1,500,000원"
-            },
-            {
-              "name": "[EVENT] 벨루티 더블 리셋 패키지",
-              "price": "1,210,000원"
-            }
-          ]
-        },
-        {
-          "category": "탄력·리프팅",
-          "group": "[도입특가] 압토스(APTOS) 실리프팅",
-          "groupPriceFrom": "1,000,000원 부터",
-          "items": [
-            {
-              "name": "[런칭] 압토스 LL25 2줄",
-              "price": "1,000,000원"
-            },
-            {
-              "name": "[런칭] 압토스 LL50 2줄",
-              "price": "2,000,000원"
-            },
-            {
-              "name": "[런칭] 압토스 나미카 10줄",
-              "price": "3,000,000원"
             }
           ]
         },
