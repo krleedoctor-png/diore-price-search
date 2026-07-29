@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T21:59:14.722Z",
+  "updated_at": "2026-07-29T21:56:02.898Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -8087,7 +8087,7 @@
             },
             {
               "name": "法令纹/下巴 选其一填充 Juvederm 1cc",
-              "price": "220,000KRW"
+              "price": "250,000KRW"
             },
             {
               "name": "嘴唇嘴角填充 Juvederm 1cc +嘴角肉毒（本土）",
@@ -8363,24 +8363,20 @@
         },
         {
           "category": "紧致·提升",
-          "group": "美版二代超声刀 / 音波拉提（美版二代）",
-          "groupPriceFrom": "150,000KRW +",
+          "group": "[引入特惠价] APTOS 线雕提升",
+          "groupPriceFrom": "1,000,000KRW +",
           "items": [
             {
-              "name": "[活动] 美版超声刀2.0 300发 + 下颌缘肉毒（韩国产）",
-              "price": "1,090,000KRW"
+              "name": "[活动] APTOS LL25（2根）",
+              "price": "1,000,000KRW"
             },
             {
-              "name": "[活动] 定制美版超声刀2.0 500发 + 下颌缘肉毒（韩国产）",
-              "price": "1,690,000KRW"
+              "name": "[活动] APTOS LL50（2根）",
+              "price": "2,000,000KRW"
             },
             {
-              "name": "[活动] 定制美版超声刀2.0 600发 + 下颌缘肉毒（韩国产）",
-              "price": "1,990,000KRW"
-            },
-            {
-              "name": "[选项] InnerTIDE 外泌体（术后护理追加时）",
-              "price": "150,000KRW"
+              "name": "[活动] APTOS NAMICA（10根）",
+              "price": "3,000,000KRW"
             }
           ]
         },
@@ -8408,6 +8404,29 @@
             {
               "name": "[选项] 协同增效方案 Revive 每1cc追加时",
               "price": "330,000KRW"
+            },
+            {
+              "name": "[选项] InnerTIDE 外泌体（术后护理追加时）",
+              "price": "150,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "紧致·提升",
+          "group": "美版二代超声刀 / 音波拉提（美版二代）",
+          "groupPriceFrom": "150,000KRW +",
+          "items": [
+            {
+              "name": "[活动] 美版超声刀2.0 300发 + 下颌缘肉毒（韩国产）",
+              "price": "1,090,000KRW"
+            },
+            {
+              "name": "[活动] 定制美版超声刀2.0 500发 + 下颌缘肉毒（韩国产）",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "[活动] 定制美版超声刀2.0 600发 + 下颌缘肉毒（韩国产）",
+              "price": "1,990,000KRW"
             },
             {
               "name": "[选项] InnerTIDE 外泌体（术后护理追加时）",
@@ -10052,6 +10071,25 @@
             {
               "name": "大蒜注射",
               "price": "60,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "埋线提拉",
+          "group": "APTOS 线雕提升",
+          "groupPriceFrom": "1,500,000KRW +",
+          "items": [
+            {
+              "name": "APTOS LL25（2根）",
+              "price": "1,500,000KRW"
+            },
+            {
+              "name": "APTOS LL50（2根）",
+              "price": "2,500,000KRW"
+            },
+            {
+              "name": "APTOS NAMICA（10根）",
+              "price": "3,500,000KRW"
             }
           ]
         },
