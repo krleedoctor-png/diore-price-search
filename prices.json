@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:16:27.568Z",
+  "updated_at": "2026-08-24T21:23:35.955Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -295,17 +295,49 @@
           ]
         },
         {
-          "category": "사전이벤트",
-          "group": "✨사전이벤트 특가 적용 희망✨",
-          "groupPriceFrom": "0원 부터",
+          "category": "감사제",
+          "group": "THANK YOU EVENT",
+          "groupPriceFrom": "49,000원 부터",
           "items": [
             {
-              "name": "🍀피부관리 정상가 기준 최대 49%할인",
-              "price": "0원"
+              "name": "감사제🤍아쿠아필링 (1,2단계) + LDM 6분 + 모델링팩",
+              "price": "49,000원"
             },
             {
-              "name": "🍀항노화수액 정상가 기준 최대 49%할인",
-              "price": "0원"
+              "name": "감사제🤍호박필링 + LDM 6분 + 모델링팩",
+              "price": "69,000원"
+            },
+            {
+              "name": "감사제🤍인모드 FORMA (얼굴전체) +제네시스 토닝 + 모델링팩",
+              "price": "189,000원"
+            },
+            {
+              "name": "감사제🤍라라필+피코슈어토닝+제네시스토닝+LDM 6분+백옥주사+모델링팩",
+              "price": "199,000원"
+            },
+            {
+              "name": "감사제🤍리즈네 2cc+PDRN 3cc+릴리톡스 2.5cc",
+              "price": "239,000원"
+            },
+            {
+              "name": "감사제🤍리쥬란 2cc+쥬베룩스킨 2cc+스킨보톡스(한국산) 2cc",
+              "price": "399,000원"
+            },
+            {
+              "name": "감사제🤍온다 60kJ +슈링크유니버스 300샷",
+              "price": "309,000원"
+            },
+            {
+              "name": "감사제🤍온다 60kJ + 쿨소닉 2000샷",
+              "price": "589,000원"
+            },
+            {
+              "name": "감사제🤍바디온다 100kJ",
+              "price": "690,000원"
+            },
+            {
+              "name": "감사제🤍울쎄라피 프라임 300샷",
+              "price": "890,000원"
             }
           ]
         },
@@ -383,92 +415,6 @@
             {
               "name": "[런칭] 압토스 나미카 10줄",
               "price": "3,000,000원"
-            }
-          ]
-        },
-        {
-          "category": "☀️SUMMER EVENT",
-          "group": "🏊‍♀️SUMMER BODY EVENT",
-          "groupPriceFrom": "65,000원 부터",
-          "items": [
-            {
-              "name": "[바디토닝] 겨드랑이/팔꿈치 토닝 1회",
-              "price": "69,000원"
-            },
-            {
-              "name": "[바디보톡스] 국산 뉴럭스 100유닛 당",
-              "price": "65,000원"
-            },
-            {
-              "name": "[바디보톡스] 제오민 100유닛 당",
-              "price": "169,000원"
-            },
-            {
-              "name": "[뽀송보톡스] 다한증보톡스 국산 뉴럭스 100유닛 당 (손/발/겨드랑이/두피)",
-              "price": "99,000원"
-            },
-            {
-              "name": "[바디지방분해] 바디온다 100KJ (1회 체험가)",
-              "price": "690,000원"
-            },
-            {
-              "name": "[바디탄력] 바디슈링크 600샷",
-              "price": "390,000원"
-            },
-            {
-              "name": "[바디탄력] 바디쿨소닉 5000샷",
-              "price": "1,290,000원"
-            },
-            {
-              "name": "[바디탄력] 바디울쎄라피 600샷",
-              "price": "2,590,000원"
-            }
-          ]
-        },
-        {
-          "category": "☀️SUMMER EVENT",
-          "group": "🏄‍♀️SUMMER ONEDAY EVENT",
-          "groupPriceFrom": "79,000원 부터",
-          "items": [
-            {
-              "name": "[매끈모공패키지-1] 아쿠아필(1,2제) + 스킨보톡스 2CC 국산(나비존) + 크라이오 5분",
-              "price": "79,000원"
-            },
-            {
-              "name": "[매끈모공패키지-2] 라라필 베이직 + 스킨보톡스 2CC 국산(나비존) + 크라이오 5분",
-              "price": "99,000원"
-            },
-            {
-              "name": "[매끈모공패키지-3] 포텐자 펌핑+엑소좀(ASCE+)+제네시스+스킨보톡스 2CC 국산(나비존)+크라이오 5분",
-              "price": "389,000원"
-            },
-            {
-              "name": "[매끈모공패키지-4] 위코우노+제네시스+쥬베룩스킨 2CC+스킨보톡스2CC 국산(나비존)+크라이오 5분",
-              "price": "489,000원"
-            },
-            {
-              "name": "[드레스핏패키지] [팔뚝] 팔뚝보톡스 100유닛 국산 뉴럭스 + 부유방 바디지방분해주사 100cc",
-              "price": "155,000원"
-            },
-            {
-              "name": "[드레스핏패키지] [오프숄더] 광경근보톡스 국산 + 슬림넥 보톡스 국산",
-              "price": "175,000원"
-            },
-            {
-              "name": "[드레스핏패키지] [직각어깨] 승모근 보톡스 100유닛 국산 뉴럭스 + 어깨필러 10cc 국산",
-              "price": "765,000원"
-            },
-            {
-              "name": "[바디리셋패키지] 바디온다 100kJ + 바디쿨소닉 5000샷 + 바디보톡스 100유닛 국산 뉴럭스",
-              "price": "1,990,000원"
-            },
-            {
-              "name": "[바디리셋패키지] 바디온다 100kJ + 바디쿨소닉 5000샷 + 바디지방분해주사 150cc",
-              "price": "2,050,000원"
-            },
-            {
-              "name": "[바디리셋패키지] 바디온다 150kJ + 바디쿨소닉 10000샷 + 바디지방분해주사 150CC",
-              "price": "3,500,000원"
             }
           ]
         },
@@ -2317,10 +2263,6 @@
             {
               "name": "아이돌 필 1회",
               "price": "109,000원"
-            },
-            {
-              "name": "율무필 1회 (재고소진 시 종료)",
-              "price": "89,000원"
             }
           ]
         },
@@ -2817,6 +2759,53 @@
             {
               "name": "Deep Nasolabial Package 2 Belotero 1cc + Nasolabial Zamberсil 2threads",
               "price": "380,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "Thank you Event",
+          "group": "THANK YOU EVENT",
+          "groupPriceFrom": "49,000KRW +",
+          "items": [
+            {
+              "name": "THANK YOU EVENT Aqua Peeling (Steps 1 & 2) + LDM 6 minutes + Modeling Pack",
+              "price": "49,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Pumpkin Peeling + LDM 6 mins + Modeling Pack",
+              "price": "69,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT InMode FORMA (Full Face) + Genesis Toning + Modeling Pack",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT LHALA Peel + PicoSure + Genesis + LDM 6 mins + Whitening Injection 600mg (Shooting) + Modeling Pack",
+              "price": "199,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Lizne 2cc + PDRN 3cc + Lilitox 2.5cc",
+              "price": "239,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Rejuran 2cc + Juvelook Skin 2cc + Skin Botox (Korean) 2cc",
+              "price": "399,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Onda 60kJ + Shurink Universe 300 shots",
+              "price": "309,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Onda 60kJ + Coolsonic 2000 shots",
+              "price": "589,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Body ONDA 100kJ",
+              "price": "690,000KRW"
+            },
+            {
+              "name": "THANK YOU EVENT Ultherapy Prime 300 shots",
+              "price": "890,000KRW"
             }
           ]
         },
@@ -5137,7 +5126,7 @@
           ]
         },
         {
-          "category": "✨導入特価✨",
+          "category": "導入特価",
           "group": "💗フィラーリフトEVENT💗",
           "groupPriceFrom": "500,000KRW +",
           "items": [
@@ -5160,7 +5149,7 @@
           ]
         },
         {
-          "category": "✨導入特価✨",
+          "category": "導入特価",
           "group": "✨ディオレ ベルティ単品EVENT✨",
           "groupPriceFrom": "500,000KRW +",
           "items": [
@@ -5171,7 +5160,7 @@
           ]
         },
         {
-          "category": "✨導入特価✨",
+          "category": "導入特価",
           "group": "ベルティパッケージ✨",
           "groupPriceFrom": "689,000KRW +",
           "items": [
@@ -5206,7 +5195,7 @@
           ]
         },
         {
-          "category": "✨導入特価✨",
+          "category": "導入特価",
           "group": "👑アプトス単品EVENT👑",
           "groupPriceFrom": "1,000,000KRW +",
           "items": [
@@ -5225,7 +5214,7 @@
           ]
         },
         {
-          "category": "✨導入特価✨",
+          "category": "導入特価",
           "group": "アプトス（Aptos）シナジーパッケージ✨",
           "groupPriceFrom": "2,300,000KRW +",
           "items": [
@@ -5317,8 +5306,8 @@
           ]
         },
         {
-          "category": "🤍感謝祭🤍",
-          "group": "🤍2026年感謝祭🤍",
+          "category": "🩵感謝祭🩵",
+          "group": "🩵2026年感謝祭🩵",
           "groupPriceFrom": "49,000KRW +",
           "items": [
             {
@@ -5342,6 +5331,10 @@
               "price": "239,000KRW"
             },
             {
+              "name": "感謝最🤍水光パッケージ Premium",
+              "price": "399,000KRW"
+            },
+            {
               "name": "感謝祭🤍フェイス オンダ 60KJ＋シュリンクユニバース300ショット",
               "price": "309,000KRW"
             },
@@ -5360,7 +5353,7 @@
           ]
         },
         {
-          "category": "💗お友達紹介イベント💗",
+          "category": "🧑‍🤝‍🧑お友達紹介イベント🧑‍🤝‍🧑",
           "group": "✨お友達紹介イベント適用希望✨",
           "groupPriceFrom": "1,000KRW +",
           "items": [
@@ -5375,7 +5368,7 @@
           ]
         },
         {
-          "category": "🍑HAPPY TIME🍑",
+          "category": "HAPPY TIME",
           "group": "✨Step1 肌コンディション回復",
           "groupPriceFrom": "70,000KRW +",
           "items": [
@@ -5390,7 +5383,7 @@
           ]
         },
         {
-          "category": "🍑HAPPY TIME🍑",
+          "category": "HAPPY TIME",
           "group": "✨Step2 美白＋鎮静",
           "groupPriceFrom": "170,000KRW +",
           "items": [
@@ -5401,7 +5394,7 @@
           ]
         },
         {
-          "category": "🍑HAPPY TIME🍑",
+          "category": "HAPPY TIME",
           "group": "✨Step3 フェイスライン整え",
           "groupPriceFrom": "220,000KRW +",
           "items": [
@@ -5412,7 +5405,7 @@
           ]
         },
         {
-          "category": "🍑HAPPY TIME🍑",
+          "category": "HAPPY TIME",
           "group": "✨Step4 ハリ・弾力シナジー",
           "groupPriceFrom": "280,000KRW +",
           "items": [
