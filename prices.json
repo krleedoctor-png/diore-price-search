@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:54:51.107Z",
+  "updated_at": "2026-09-21T23:46:53.912Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -1557,10 +1557,6 @@
             {
               "name": "페이스 필러 (국산/레나필) 1cc",
               "price": "150,000원"
-            },
-            {
-              "name": "페이스 필러 (국산/채움) 1cc",
-              "price": "200,000원"
             },
             {
               "name": "페이스 필러 (국산/뉴라미스) 1cc",
@@ -4443,10 +4439,6 @@
             {
               "name": "Face Filler (Domestic / Lenafill) 1 cc",
               "price": "150,000KRW"
-            },
-            {
-              "name": "Face Filler (Domestic / Chaeum) 1 cc",
-              "price": "200,000KRW"
             },
             {
               "name": "Face Filler (Domestic / Neuramis) 1 cc",
@@ -12229,10 +12221,6 @@
             {
               "name": "ฟิลเลอร์ใบหน้า (เกาหลี/Neuramis) 1 cc",
               "price": "250,000KRW"
-            },
-            {
-              "name": "ฟิลเลอร์ใบหน้า (เกาหลี/Chaeum) 1 cc",
-              "price": "200,000KRW"
             },
             {
               "name": "ฟิลเลอร์ใบหน้า (เกาหลี/Lenafill) 1 cc",
