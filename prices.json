@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:32:50.648Z",
+  "updated_at": "2026-10-31T00:18:49.215Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -419,53 +419,6 @@
             {
               "name": "여드름 흉터 지우개) 리쥬란 S 1cc + 서브시전 10개",
               "price": "299,000원"
-            }
-          ]
-        },
-        {
-          "category": "감사제",
-          "group": "THANK YOU EVENT",
-          "groupPriceFrom": "49,000원 부터",
-          "items": [
-            {
-              "name": "감사제🤍아쿠아필링 (1,2단계) + LDM 6분 + 모델링팩",
-              "price": "49,000원"
-            },
-            {
-              "name": "감사제🤍호박필링 + LDM 6분 + 모델링팩",
-              "price": "69,000원"
-            },
-            {
-              "name": "감사제🤍인모드 FORMA (얼굴전체) +제네시스 토닝 + 모델링팩",
-              "price": "189,000원"
-            },
-            {
-              "name": "감사제🤍라라필+피코슈어토닝+제네시스토닝+LDM 6분+백옥주사+모델링팩",
-              "price": "199,000원"
-            },
-            {
-              "name": "감사제🤍리즈네 2cc+PDRN 3cc+릴리톡스 2.5cc",
-              "price": "239,000원"
-            },
-            {
-              "name": "감사제🤍리쥬란 2cc+쥬베룩스킨 2cc+스킨보톡스(한국산) 2cc",
-              "price": "399,000원"
-            },
-            {
-              "name": "감사제🤍온다 60kJ +슈링크유니버스 300샷",
-              "price": "309,000원"
-            },
-            {
-              "name": "감사제🤍온다 60kJ + 쿨소닉 2000샷",
-              "price": "589,000원"
-            },
-            {
-              "name": "감사제🤍바디온다 100kJ",
-              "price": "690,000원"
-            },
-            {
-              "name": "감사제🤍울쎄라피 프라임 300샷",
-              "price": "890,000원"
             }
           ]
         },
@@ -3391,53 +3344,6 @@
           ]
         },
         {
-          "category": "Thank you Event",
-          "group": "THANK YOU EVENT",
-          "groupPriceFrom": "49,000KRW +",
-          "items": [
-            {
-              "name": "THANK YOU EVENT Aqua Peeling (Steps 1 & 2) + LDM 6 minutes + Modeling Pack",
-              "price": "49,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Pumpkin Peeling + LDM 6 mins + Modeling Pack",
-              "price": "69,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT InMode FORMA (Full Face) + Genesis Toning + Modeling Pack",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT LHALA Peel + PicoSure + Genesis + LDM 6 mins + Whitening Injection 600mg (Shooting) + Modeling Pack",
-              "price": "199,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Lizne 2cc + PDRN 3cc + Lilitox 2.5cc",
-              "price": "239,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Rejuran 2cc + Juvelook Skin 2cc + Skin Botox (Korean) 2cc",
-              "price": "399,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Onda 60kJ + Shurink Universe 300 shots",
-              "price": "309,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Onda 60kJ + Coolsonic 2000 shots",
-              "price": "589,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Body ONDA 100kJ",
-              "price": "690,000KRW"
-            },
-            {
-              "name": "THANK YOU EVENT Ultherapy Prime 300 shots",
-              "price": "890,000KRW"
-            }
-          ]
-        },
-        {
           "category": "⏰ Weekday Happy Time",
           "group": "🎉99,000KRW Freepass",
           "groupPriceFrom": "99,000KRW +",
@@ -6014,53 +5920,6 @@
             {
               "name": "ボディークールソニック 5000ショット ✨",
               "price": "1,250,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "🩵感謝祭🩵",
-          "group": "🩵2026年感謝祭🩵",
-          "groupPriceFrom": "49,000KRW +",
-          "items": [
-            {
-              "name": "感謝祭🤍アクアピール(1・2段階) ＋LDM 6分＋モデリングパック",
-              "price": "49,000KRW"
-            },
-            {
-              "name": "感謝祭🤍かぼちゃピール＋LDM 6分＋モデリングパック",
-              "price": "69,000KRW"
-            },
-            {
-              "name": "感謝祭🤍インモードFORMA 全顔 ＋ジェネシストーニング＋モデリングパック",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "感謝祭🤍ララピール＋ピコトーニング＋ジェネシストーニング ＋LDM 6分＋白玉注射＋モデリングパック",
-              "price": "199,000KRW"
-            },
-            {
-              "name": "感謝祭🤍水光パッケージ BASIC",
-              "price": "239,000KRW"
-            },
-            {
-              "name": "感謝最🤍水光パッケージ Premium",
-              "price": "399,000KRW"
-            },
-            {
-              "name": "感謝祭🤍フェイス オンダ 60KJ＋シュリンクユニバース300ショット",
-              "price": "309,000KRW"
-            },
-            {
-              "name": "感謝祭🤍フェイスオンダ 60KJ＋クールソニック2000ショット",
-              "price": "589,000KRW"
-            },
-            {
-              "name": "感謝祭🤍ボディー ボディーオンダ 100kJ",
-              "price": "690,000KRW"
-            },
-            {
-              "name": "感謝祭🤍ウルセラプライム 300ショット",
-              "price": "890,000KRW"
             }
           ]
         },
