@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:55:03.506Z",
+  "updated_at": "2026-11-02T00:10:32.801Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -6010,27 +6010,11 @@
         {
           "category": "弾力·引き上げ",
           "group": "オンダ1+1",
-          "groupPriceFrom": "79,000KRW +",
+          "groupPriceFrom": "1,550,000KRW +",
           "items": [
-            {
-              "name": "イベント）フェイスオンダ 20kj + 20kj",
-              "price": "290,000KRW"
-            },
-            {
-              "name": "イベント）フェイスオンダ 40kj + 40kj",
-              "price": "550,000KRW"
-            },
-            {
-              "name": "イベント）ボディオンダ 20kj + 20kj",
-              "price": "290,000KRW"
-            },
             {
               "name": "イベント）ボディオンダ 150kj + 100kj",
               "price": "1,550,000KRW"
-            },
-            {
-              "name": "オプションオンダ 10Kj",
-              "price": "79,000KRW"
             }
           ]
         },
