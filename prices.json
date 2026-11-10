@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:26:43.181Z",
+  "updated_at": "2026-11-10T03:06:52.742Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -419,6 +419,152 @@
             {
               "name": "여드름 흉터 지우개) 리쥬란 S 1cc + 서브시전 10개",
               "price": "299,000원"
+            }
+          ]
+        },
+        {
+          "category": "1+1이벤트",
+          "group": "1+1 동행이벤트",
+          "groupPriceFrom": "79,000원 부터",
+          "items": [
+            {
+              "name": "1+1 동행이벤트) 리쥬란 4cc",
+              "price": "350,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 포텐자 + 리쥬란 4cc + 크라이오",
+              "price": "460,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 포텐자 + 리쥬란 2cc + 쥬베룩스킨 4cc",
+              "price": "590,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 포텐자 + 쥬베룩스킨 4cc + 크라이오",
+              "price": "390,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 쿨소닉 5000샷",
+              "price": "790,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 쿨소닉 10000샷",
+              "price": "1,390,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 바디 쿨소닉 5000",
+              "price": "790,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 울쎄라 300샷",
+              "price": "890,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 울쎄라 300샷 + 스킨보톡스(국산) 2cc",
+              "price": "990,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 울쎄라 600샷",
+              "price": "1,690,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 울쎄라 600샷 + 스킨보톡스(국산) 2cc",
+              "price": "1,790,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 써마지 300샷 + 스킨보톡스(국산) 2cc",
+              "price": "990,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 써마지 600샷 + 스킨보톡스(국산) 2cc",
+              "price": "1,790,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 써마지 900샷",
+              "price": "2,490,000원"
+            },
+            {
+              "name": "1+1 동행이벤트) 써마지 900샷 + 스킨보톡스(국산) 2cc",
+              "price": "2,590,000원"
+            },
+            {
+              "name": "1+1이벤트 구매자 한정) 추가옵션 쿨소닉 1000샷",
+              "price": "159,000원"
+            },
+            {
+              "name": "1+1이벤트 구매자 한정) 추가옵션 쥬베룩스킨 2cc 추가",
+              "price": "150,000원"
+            },
+            {
+              "name": "1+1이벤트 구매자 한정) 추가옵션 온다10kJ",
+              "price": "79,000원"
+            }
+          ]
+        },
+        {
+          "category": "1+1이벤트",
+          "group": "1+1+1 동행이벤트",
+          "groupPriceFrom": "330,000원 부터",
+          "items": [
+            {
+              "name": "1+1+1 동행이벤트) 리쥬란 4cc",
+              "price": "330,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 포텐자 + 리쥬란 4cc + 크라이오",
+              "price": "440,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 포텐자 + 리쥬란 2cc + 쥬베룩스킨 4cc",
+              "price": "560,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 포텐자 + 쥬베룩스킨 4cc + 크라이오",
+              "price": "350,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 쿨소닉 5000샷",
+              "price": "750,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 쿨소닉 10000샷",
+              "price": "1,320,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 바디 쿨소닉 5000샷",
+              "price": "750,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 울쎄라 300샷",
+              "price": "790,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 울쎄라 300샷 + 스킨보톡스(국산) 2cc",
+              "price": "890,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 울쎄라 600샷",
+              "price": "1,550,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 울쎄라 600샷 + 스킨보톡스(국산) 2cc",
+              "price": "1,650,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 써마지 300샷 + 스킨보톡스(국산) 2cc",
+              "price": "890,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 써마지 600샷 + 스킨보톡스(국산) 2cc",
+              "price": "1,690,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 써마지 900샷",
+              "price": "2,290,000원"
+            },
+            {
+              "name": "1+1+1 동행이벤트) 써마지 900샷 + 스킨보톡스(국산) 2cc",
+              "price": "2,390,000원"
             }
           ]
         },
@@ -2966,6 +3112,152 @@
           ]
         },
         {
+          "category": "1+1 Bring a Friend",
+          "group": "1+1 Bring a Friend",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "(1+1 Bring a Friend) Rejuran 4 cc",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Potenza + Rejuran 4 cc + Cryo Care",
+              "price": "460,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Potenza + Rejuran 2 cc + Juvelook Skin 4 cc",
+              "price": "590,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Potenza + Juvelook Skin 4 cc + Cryo Care",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Coolsonic 5,000 Shots",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Coolsonic 10,000 Shots",
+              "price": "1,390,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Body Coolsonic 5,000 Shots",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Ultherapy 300 Shots",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Ultherapy 300 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Ultherapy 600 Shots",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Ultherapy 600 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Thermage 300 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Thermage 600 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Thermage 900 Shots",
+              "price": "2,490,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend) Thermage 900 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "2,590,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend Add-on) Coolsonic 1,000 Shots (Add-on)",
+              "price": "159,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend Add-on) Additional Juvelook Skin 2 cc (Add-on)",
+              "price": "150,000KRW"
+            },
+            {
+              "name": "(1+1 Bring a Friend Add-on) ONDA 10 kJ (Add-on)",
+              "price": "79,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "1+1 Bring a Friend",
+          "group": "1+1+1 Bring Two Friends",
+          "groupPriceFrom": "330,000KRW +",
+          "items": [
+            {
+              "name": "(1+1+1 Bring Two Friends) Rejuran 4 cc",
+              "price": "330,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Potenza + Rejuran 4 cc + Cryo Care",
+              "price": "440,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Potenza + Rejuran 2 cc + Juvelook Skin 4 cc",
+              "price": "560,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Potenza + Juvelook Skin 4 cc + Cryo Care",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Coolsonic 5,000 Shots",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Coolsonic 10,000 Shots",
+              "price": "1,320,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Body Coolsonic 5,000 Shots",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Ultherapy 300 Shots",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Ultherapy 300 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Ultherapy 600 Shots",
+              "price": "1,550,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Ultherapy 600 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "1,650,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Thermage 300 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Thermage 600 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Thermage 900 Shots",
+              "price": "2,290,000KRW"
+            },
+            {
+              "name": "(1+1+1 Bring Two Friends) Thermage 900 Shots + Skin Botox (Korean Brand) 2 cc",
+              "price": "2,390,000KRW"
+            }
+          ]
+        },
+        {
           "category": "⏰ Weekday Happy Time",
           "group": "🎉99,000KRW Freepass",
           "groupPriceFrom": "99,000KRW +",
@@ -5038,15 +5330,15 @@
           "groupPriceFrom": "19,000KRW +",
           "items": [
             {
-              "name": "初回イベント) エラボトックス 50u（韓国製/ニューラックス）",
+              "name": "初回イベント) エラボトックス 50u（韓国産/ニューラックスorハイトックス)",
               "price": "19,000KRW"
             },
             {
-              "name": "初回イベント) しわボトックス3部位（韓国産/ニューラックス）",
+              "name": "初回イベント) しわボトックス3部位(韓国産/ニューラックスorハイトックス)",
               "price": "29,000KRW"
             },
             {
-              "name": "初回イベント) スキンボトックス2㏄（韓国産/ニューラックス）",
+              "name": "初回イベント) スキンボトックス2㏄(韓国産/ニューラックスorハイトックス)",
               "price": "49,000KRW"
             },
             {
@@ -5474,17 +5766,160 @@
           ]
         },
         {
-          "category": "🧑‍🤝‍🧑お友達紹介イベント🧑‍🤝‍🧑",
-          "group": "✨お友達紹介イベント適用希望✨",
-          "groupPriceFrom": "1,000KRW +",
+          "category": "🍫同行キャンペーン🍫",
+          "group": "🎀2名様で一緒にお得に！🎀",
+          "groupPriceFrom": "79,000KRW +",
           "items": [
             {
-              "name": "【再診限定】🎁お友達紹介 SPECIAL GIFT #1",
-              "price": "通常価格 1,000KRW イベント価格 1,000KRW"
+              "name": "🎀 (2名様同行キャンペーン) リジュランヒーラー 4cc",
+              "price": "350,000KRW"
             },
             {
-              "name": "【再診限定】🎁お友達紹介 SPECIAL GIFT #2",
-              "price": "通常価格 1,000KRW イベント価格 1,000KRW"
+              "name": "🎀 (2名様同行キャンペーン) ポテンツァ(CPチップ) + リジュランヒーラー 4cc + クライオ",
+              "price": "460,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ポテンツァ(CPチップ) + リジュランヒーラー 2cc + ジュベルックスキン",
+              "price": "590,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ポテンツァ(CPチップ) + ジュベルックスキン 4cc + クライオ",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) クールソニック 5000ショット",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) クールソニック 10000ショット",
+              "price": "1,390,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ボディクールソニック 5000ショット",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ウルセラ 300ショット",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ウルセラ 300ショット + スキンボトックス(韓国産) 2cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ウルセラ 600ショット",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) ウルセラ 600ショット + スキンボトックス(韓国産) 2cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) サーマクール 300ショット + スキンボトックス(韓国産) 2cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) サーマクール 600ショット + スキンボトックス(韓国産) 2cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) サーマクール 900ショット",
+              "price": "2,490,000KRW"
+            },
+            {
+              "name": "🎀 (2名様同行キャンペーン) サーマクール 900ショット + スキンボトックス(韓国産) 2cc",
+              "price": "2,590,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨クールソニック 1000ショット",
+              "price": "159,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨ジュベルックスキン 2cc追加",
+              "price": "150,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨オンダリフト 10kJ",
+              "price": "79,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "🍫同行キャンペーン🍫",
+          "group": "✨3名様で一緒にお得に!✨",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "🎀 (3名様同行キャンペーン) リジュランヒーラー 4cc",
+              "price": "330,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ポテンツァ(CPチップ) + リジュランヒーラー 4cc + クライオ",
+              "price": "440,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ポテンツァ(CPチップ) + リジュランヒーラー 2cc + ジュベルックスキン 4cc",
+              "price": "560,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ポテンツァ(CPチップ) + ジュベルックスキン 4cc + クライオ",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) クールソニック 5000ショット",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) クールソニック 10000ショット",
+              "price": "1,320,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ボディクールソニック 5000ショット",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ウルセラ 300ショット",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ウルセラ 300ショット + スキンボトックス(韓国産) 2cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ウルセラ 600ショット",
+              "price": "1,550,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) ウルセラ 600ショット + スキンボトックス(韓国産) 2cc",
+              "price": "1,650,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) サーマクール 300ショット + スキンボトックス(韓国産) 2cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) サーマクール 600ショット + スキンボトックス(韓国産) 2cc",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) サーマクール 900ショット",
+              "price": "2,290,000KRW"
+            },
+            {
+              "name": "🎀 (3名様同行キャンペーン) サーマクール 900ショット + スキンボトックス(韓国産) 2cc",
+              "price": "2,390,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨オンダリフト 10kJ",
+              "price": "79,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨ジュベルックスキン 2cc追加",
+              "price": "150,000KRW"
+            },
+            {
+              "name": "🎁 追加オプション✨クールソニック 1000ショット",
+              "price": "159,000KRW"
             }
           ]
         },
@@ -6222,15 +6657,15 @@
           "groupPriceFrom": "19,000KRW +",
           "items": [
             {
-              "name": "初回イベント) エラボトックス 50u（韓国製/ニューラックス）",
+              "name": "初回イベント) エラボトックス 50u（韓国産/ニューラックスorハイトックス)",
               "price": "19,000KRW"
             },
             {
-              "name": "初回イベント) しわボトックス3部位（韓国産/ニューラックス）",
+              "name": "初回イベント) しわボトックス3部位(韓国産/ニューラックスorハイトックス)",
               "price": "29,000KRW"
             },
             {
-              "name": "初回イベント) スキンボトックス2㏄（韓国産/ニューラックス）",
+              "name": "初回イベント) スキンボトックス2㏄(韓国産/ニューラックスorハイトックス)",
               "price": "49,000KRW"
             },
             {
@@ -7492,7 +7927,7 @@
           "groupPriceFrom": "129,000KRW +",
           "items": [
             {
-              "name": "多汗症ボトックス (韓国製/ニューラックス) 100u",
+              "name": "多汗症ボトックス(韓国産/ニューラックスorハイトックス) 100u",
               "price": "129,000KRW"
             },
             {
@@ -7515,11 +7950,11 @@
           "groupPriceFrom": "79,000KRW +",
           "items": [
             {
-              "name": "スキンボトックス (韓国製/ニューラックス) 2cc",
+              "name": "スキンボトックス (韓国産/ニューラックスorハイトックス) 2cc",
               "price": "79,000KRW"
             },
             {
-              "name": "スキンボトックス (韓国製/コアトックス) 2cc",
+              "name": "スキンボトックス(韓国産/ニューラックスorハイトックス) 2cc",
               "price": "99,000KRW"
             },
             {
@@ -7538,7 +7973,7 @@
           "groupPriceFrom": "19,000KRW +",
           "items": [
             {
-              "name": "口角ボトックス (韓国製/ニューラックス)",
+              "name": "口角ボトックス (韓国産/ニューラックスorハイトックス)",
               "price": "19,000KRW"
             },
             {
@@ -7554,11 +7989,11 @@
               "price": "89,000KRW"
             },
             {
-              "name": "唾液腺/側頭筋/頬骨ボトックス (韓国製/ニューラックス) 1部位当たり",
+              "name": "唾液腺/側頭筋/頬骨ボトックス(韓国産/ニューラックスorハイトックス)1部位当たり",
               "price": "59,000KRW"
             },
             {
-              "name": "唾液腺/側頭筋/頬骨ボトックス (韓国製/コアトックス) 1部位当たり",
+              "name": "唾液腺/側頭筋/頬骨ボトックス(韓国産/ニューラックスorハイトックス) 1部位当たり",
               "price": "79,000KRW"
             },
             {
@@ -7570,7 +8005,7 @@
               "price": "179,000KRW"
             },
             {
-              "name": "ガミースマイル (韓国製/ニューラックス)",
+              "name": "ガミースマイル(韓国産/ニューラックスorハイトックス)",
               "price": "49,000KRW"
             },
             {
@@ -7586,7 +8021,7 @@
               "price": "129,000KRW"
             },
             {
-              "name": "首のしわボトックス (韓国製/ニューラックス)",
+              "name": "首のしわボトックス(韓国産/ニューラックスorハイトックス)",
               "price": "39,000KRW"
             },
             {
@@ -7621,7 +8056,7 @@
           "groupPriceFrom": "69,000KRW +",
           "items": [
             {
-              "name": "ボディボトックス (韓国製/ニューラックス) 100u",
+              "name": "ボディボトックス (韓国産/ニューラックスorハイトックス) 100u",
               "price": "69,000KRW"
             },
             {
@@ -7637,7 +8072,7 @@
               "price": "239,000KRW"
             },
             {
-              "name": "広頚筋ボトックス (韓国製/ニューラックス) 100u",
+              "name": "広頚筋ボトックス(韓国産/ニューラックスorハイトックス)100u",
               "price": "79,000KRW"
             },
             {
@@ -7653,7 +8088,7 @@
               "price": "269,000KRW"
             },
             {
-              "name": "スリムネックボトックス (韓国製/ニューラックス) 100u",
+              "name": "スリムネックボトックス(韓国産/ニューラックスorハイトックス) 100u",
               "price": "99,000KRW"
             },
             {
@@ -7699,7 +8134,7 @@
           "groupPriceFrom": "15,000KRW +",
           "items": [
             {
-              "name": "しわボトックス (韓国製/ニューラックス) 1部位当たり",
+              "name": "しわボトックス(韓国産/ニューラックスorハイトックス)1部位当たり",
               "price": "19,000KRW"
             },
             {
@@ -7715,7 +8150,7 @@
               "price": "89,000KRW"
             },
             {
-              "name": "しわボトックス (韓国製/ニューラックス) 3部位",
+              "name": "しわボトックス(韓国産/ニューラックスorハイトックス)3部位",
               "price": "49,000KRW"
             },
             {
