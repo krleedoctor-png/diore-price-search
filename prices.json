@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:58:36.317Z",
+  "updated_at": "2026-11-12T02:05:20.677Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -2047,7 +2047,7 @@
             },
             {
               "name": "[옵션] 포텐자 펌핑팁 변경",
-              "price": "950,000원"
+              "price": "95,000원"
             },
             {
               "name": "[옵션] 더마샤인 마이크로 인젝터 변경",
@@ -2098,7 +2098,7 @@
             },
             {
               "name": "[옵션] 포텐자 펌핑팁 변경",
-              "price": "950,000원"
+              "price": "95,000원"
             }
           ]
         },
@@ -8352,32 +8352,8 @@
         {
           "category": "⏭️短時高效療程",
           "group": "⏭️FAST TRACK",
-          "groupPriceFrom": "19,000KRW +",
+          "groupPriceFrom": "25,000KRW +",
           "items": [
-            {
-              "name": "[FAST] 咬肌肉毒（韩国本土/ Newlux) 50u",
-              "price": "19,000KRW"
-            },
-            {
-              "name": "[FAST] 除皱肉毒 (本土/NEWLUX) 任意三个部位",
-              "price": "29,000KRW"
-            },
-            {
-              "name": "[FAST] 焕肤肉毒 (韩国本土/NEWLUX) 2cc",
-              "price": "49,000KRW"
-            },
-            {
-              "name": "[FAST] 咬肌肉毒（韩国本土/ Coretox) 50u",
-              "price": "39,000KRW"
-            },
-            {
-              "name": "[FAST] 除皱肉毒 (韩国本土/ Coretox) 任意三个部位",
-              "price": "79,000KRW"
-            },
-            {
-              "name": "[FAST] 焕肤肉毒 (韩国本土/ Coretox) 2cc",
-              "price": "89,000KRW"
-            },
             {
               "name": "[FAST] picosure 皮秒焕肤 1次",
               "price": "35,000KRW"
@@ -8387,24 +8363,12 @@
               "price": "59,000KRW"
             },
             {
-              "name": "[FAST] V激光（任一模式）",
-              "price": "69,000KRW"
-            },
-            {
               "name": "[FAST] Genesis激光",
               "price": "69,000KRW"
             },
             {
-              "name": "[FAST] picosure皮秒+Genesis激光",
-              "price": "89,000KRW"
-            },
-            {
               "name": "[FAST] 黄金微针(N探头)",
               "price": "109,000KRW"
-            },
-            {
-              "name": "[FAST] INMODE 钻石超塑（FX模式） 任一部位",
-              "price": "39,000KRW"
             },
             {
               "name": "[FAST] Eve Titan（Titan 或 Pro Mode 10分钟）",
@@ -8425,37 +8389,61 @@
             {
               "name": "[FAST] 爱豆(PHA)焕肤 1次",
               "price": "89,000KRW"
+            },
+            {
+              "name": "[FAST] innerTIDE 外泌体肌肤管理",
+              "price": "190,000KRW"
+            },
+            {
+              "name": "[FAST] Wiqo UNO 美白护理",
+              "price": "170,000KRW"
+            },
+            {
+              "name": "[FAST] 毛周角化身体护理 GA焕肤",
+              "price": "150,000KRW"
+            },
+            {
+              "name": "[FAST] 白玉注射 600mg",
+              "price": "25,000KRW"
+            },
+            {
+              "name": "[FAST] 加购 SONO护理或 LDM护理 6分钟",
+              "price": "33,000KRW"
             }
           ]
         },
         {
           "category": "首次到访优惠",
           "group": "一次体验价 / 一次體驗價",
-          "groupPriceFrom": "25,000KRW +",
+          "groupPriceFrom": "19,000KRW +",
           "items": [
             {
-              "name": "[一次体验价/营养注射] 白玉注射 600mg（注射）",
+              "name": "[一次体验价] Newlux 咬肌肉毒 50u",
+              "price": "19,000KRW"
+            },
+            {
+              "name": "[一次体验价] Newlux 除皱肉毒 2+1部位",
+              "price": "29,000KRW"
+            },
+            {
+              "name": "[一次体验价] Newlux 焕肤肉毒 2cc",
+              "price": "49,000KRW"
+            },
+            {
+              "name": "[一次体验价] 特殊部位肉毒（嘴角／露龈笑）",
               "price": "25,000KRW"
             },
             {
-              "name": "[一次体验价/营养注射] 灰姑娘注射",
-              "price": "45,000KRW"
+              "name": "[一次体验价] 不限量色素清除（去痣＋去扁平疣）",
+              "price": "400,000KRW"
             },
             {
-              "name": "[一次体验价/水光] Lilied M 5CC",
-              "price": "139,000KRW"
+              "name": "[一次体验价] 不限量埋线提升",
+              "price": "1,400,000KRW"
             },
             {
-              "name": "[一次体验价/水光] 丽珠兰 白盒 2CC",
-              "price": "209,000KRW"
-            },
-            {
-              "name": "[一次体验价/水光] 丽珠兰 红盒 2CC",
-              "price": "309,000KRW"
-            },
-            {
-              "name": "[一次体验价/激光雷射] 皮秒 (Pico Toning)",
-              "price": "45,000KRW"
+              "name": "[一次体验价] 唇部填充 1cc＋嘴角肉毒",
+              "price": "99,000KRW"
             },
             {
               "name": "[一次体验价/激光雷射] 飞梭激光",
@@ -8466,36 +8454,60 @@
               "price": "79,000KRW"
             },
             {
-              "name": "[一次体验价/激光雷射] Genesis激光",
-              "price": "79,000KRW"
+              "name": "[一次体验价] 白金PTT",
+              "price": "149,000KRW"
             },
             {
-              "name": "[一次体验价] 黄金微针 N探头",
-              "price": "120,000KRW"
+              "name": "[一次体验价/水光] Lilied M 5CC",
+              "price": "139,000KRW"
             },
             {
-              "name": "[一次体验价/肌肤护理] innerTIDE 外泌体 肌肤管理",
+              "name": "[一次体验价] 丽珠兰 2cc",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[一次体验价/水光] 丽珠兰 红盒 2CC",
+              "price": "309,000KRW"
+            },
+            {
+              "name": "[一次体验价] Juvelook Skin 3cc",
+              "price": "189,000KRW"
+            },
+            {
+              "name": "[一次体验价] Juvelook i 2cc",
+              "price": "210,000KRW"
+            },
+            {
+              "name": "[一次体验价] Shurink Universe 100发",
+              "price": "30,000KRW"
+            },
+            {
+              "name": "[一次体验价] InMode FX 或 FORMA 任选一个部位",
+              "price": "39,000KRW"
+            },
+            {
+              "name": "[一次体验价] ONDA 10kJ",
+              "price": "50,000KRW"
+            },
+            {
+              "name": "[一次体验价] Oligio 100发",
+              "price": "100,000KRW"
+            },
+            {
+              "name": "[一次体验价] Eve Titan 任选一种模式 10分钟",
+              "price": "149,000KRW"
+            },
+            {
+              "name": "[一次体验价] CoolSoniq 1000发",
               "price": "190,000KRW"
             },
             {
-              "name": "[一次体验价/提升] 韩版热玛吉 OLIGIO 300发",
-              "price": "349,000KRW"
-            },
-            {
-              "name": "[一次体验价/提升] 美版二代超声刀 100发",
-              "price": "390,000KRW"
-            },
-            {
-              "name": "[一次体验价/提升] 美版二代超声刀 300发",
-              "price": "890,000KRW"
+              "name": "[一次体验价] Ultherapy PRIME 100发",
+              "price": "299,000KRW"
             },
             {
               "name": "[一次体验价/提升] 美版热玛吉 300发",
               "price": "990,000KRW"
-            },
-            {
-              "name": "[一次体验价] 白金PTT",
-              "price": "149,000KRW"
             }
           ]
         },
@@ -8629,219 +8641,293 @@
         },
         {
           "category": "本月活动",
-          "group": "定制填充&埋线提升/客製化填充＆埋線拉提",
-          "groupPriceFrom": "45,000KRW +",
+          "group": "11月限定特惠",
+          "groupPriceFrom": "69,000KRW +",
           "items": [
             {
-              "name": "[迪奥丽 唇部套餐] 水润嘭弹 1CC (韩国产 LENA)",
-              "price": "45,000KRW"
-            },
-            {
-              "name": "嘴唇+嘴角/法令纹/下巴 Lenafill (本土)",
-              "price": "45,000KRW"
-            },
-            {
-              "name": "嘴唇+嘴角/法令纹/下巴填充 Chaeum 1cc (本土)",
+              "name": "S-Fit 注射 100cc",
               "price": "69,000KRW"
             },
             {
-              "name": "嘴唇+嘴角/法令纹/下巴填充 选其一 Belotero 1cc",
-              "price": "200,000KRW"
+              "name": "V-Fit 注射 10cc",
+              "price": "79,000KRW"
             },
             {
-              "name": "法令纹/下巴 选其一填充 Juvederm 1cc",
+              "name": "丽兹内 Lizne 2cc",
+              "price": "70,000KRW"
+            },
+            {
+              "name": "Belluti Eye 1次（双侧眼下）",
               "price": "250,000KRW"
             },
             {
-              "name": "嘴唇嘴角填充 Juvederm 1cc +嘴角肉毒（本土）",
-              "price": "290,000KRW"
+              "name": "额头玻尿酸填充（韩国原厂）4cc",
+              "price": "369,000KRW"
             },
             {
-              "name": "嘴唇嘴角填充 Juvederm 1cc + 法令纹填充 Juvederm 1cc + 嘴角肉毒（本土）",
+              "name": "ECM 水光 Juveacell 或 CellREDM 6cc",
               "price": "490,000KRW"
             },
             {
-              "name": "鼻子提升（鼻子埋线提升+鼻子填充 本土填充剂）",
-              "price": "550,000KRW"
-            },
-            {
-              "name": "鼻子提升（鼻子埋线提升+鼻子填充 乔雅登Juvederm）",
-              "price": "750,000KRW"
+              "name": "颈纹 Sofwave 100发",
+              "price": "690,000KRW"
             }
           ]
         },
         {
-          "category": "💝感恩回馈活动🤍",
-          "group": "THANK YOU Event🤍",
-          "groupPriceFrom": "49,000KRW +",
+          "category": "本月活动",
+          "group": "水光麻薯肌套餐（Mochi Skin PKG）",
+          "groupPriceFrom": "320,000KRW +",
           "items": [
             {
-              "name": "[护肤 BEST] 小气泡清洁(第1, 2步)+LDM 6分钟+软膜",
-              "price": "49,000KRW"
+              "name": "丽珠兰 2cc＋Juvelook 3cc＋LDM 6分钟＋软膜",
+              "price": "400,000KRW"
             },
             {
-              "name": "[护肤 BEST] 小南瓜焕肤+LDM 6分钟+软膜",
-              "price": "69,000KRW"
+              "name": "丽珠兰 2cc＋Revive 2cc＋LDM 6分钟＋软膜",
+              "price": "900,000KRW"
             },
             {
-              "name": "[紧致 BEST] [无需恢复期的紧致管理] InMode FORMA(全脸)+Genesis 焕肤+软膜",
+              "name": "皮秒＋V激光任选一模式＋丽珠兰 2cc＋LDM 6分钟＋软膜",
+              "price": "320,000KRW"
+            },
+            {
+              "name": "皮秒＋V激光任选一模式＋Re2O 6cc＋LDM 6分钟＋软膜",
+              "price": "680,000KRW"
+            },
+            {
+              "name": "LHALA焕肤＋Crystal外泌体 5cc＋韩产高端焕肤肉毒 2cc＋LDM 6分钟＋软膜",
+              "price": "450,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "本月活动",
+          "group": "DEORE Potenza微针电波 × 水光精华",
+          "groupPriceFrom": "189,000KRW +",
+          "items": [
+            {
+              "name": "黄金微针（Pumping探头）+ 丽珠兰2cc + 冰镇导入",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "黄金微针（Pumping探头）+乔雅露Juvelook 2cc + 冰镇导入",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "黄金微针（Pumping探头）+ 外泌体5cc + 冰镇导入",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "黄金微针（Pumping探头）+ 丽珠兰2cc + 乔雅露Juvelook 2cc + 冰镇导入",
+              "price": "499,000KRW"
+            },
+            {
+              "name": "黄金微针 N探头 + Re2o 6cc + 冰镇导入",
+              "price": "680,000KRW"
+            },
+            {
+              "name": "加购选项）丽珠兰 2cc",
               "price": "189,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "本月活动",
+          "group": "DEORE橡皮擦抚纹修复套餐",
+          "groupPriceFrom": "299,000KRW +",
+          "items": [
+            {
+              "name": "眼下套餐：丽珠兰白盒眼周（Rejuran I）2cc + Belutti眼周护理1次",
+              "price": "450,000KRW"
             },
             {
-              "name": "[美白 BEST][美白LHALA套餐] LHALA换肤+皮秒激光+Genesis激光+LDM 6分钟+白玉注射 600mg(静脉注射)+软膜",
-              "price": "199,000KRW"
+              "name": "法令纹橡皮擦： 法令纹玻尿酸填充（保柔缇Belotero）2cc + 保柔缇Revive 1cc",
+              "price": "550,000KRW"
             },
             {
-              "name": "[补水/修复 BEST][水光套餐BASIC] LIZNE 2cc+PDRN 3cc+LILITOX 2.5cc",
-              "price": "239,000KRW"
+              "name": "颈纹橡皮擦： 颈纹玻尿酸填充（保柔缇Belotero）2cc + 紧致微滴肉毒（NEWLUX）2cc",
+              "price": "550,000KRW"
             },
             {
-              "name": "[补水/修复 BEST][水光套餐Premium] 丽珠兰 2cc+乔雅露 2cc+韩国国产水光肉毒 2cc",
-              "price": "399,000KRW"
+              "name": "痘疤凹洞橡皮擦： 丽珠兰蓝盒痘疤修复（Rejuran S）1cc + 凹陷性痘疤皮下剥离手术10处",
+              "price": "299,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "1+1 同行优惠活动",
+          "group": "1+1 同行优惠活动",
+          "groupPriceFrom": "79,000KRW +",
+          "items": [
+            {
+              "name": "[1+1 同行优惠活动] 丽珠兰 4cc",
+              "price": "350,000KRW"
             },
             {
-              "name": "[提拉紧致 BEST] 面部 ONDA 60kJ +韩版超声刀 300发",
-              "price": "309,000KRW"
+              "name": "[1+1 同行优惠活动] Potenza＋丽珠兰 4cc＋Cryo",
+              "price": "460,000KRW"
             },
             {
-              "name": "[提拉紧致 BEST] 面部ONDA 60kJ+CoolSoniq 2000发",
-              "price": "589,000KRW"
+              "name": "[1+1 同行优惠活动] Potenza＋丽珠兰 2cc＋Juvelook Skin 4cc",
+              "price": "590,000KRW"
             },
             {
-              "name": "[提拉紧致 BEST] 身体ONDA 100kJ",
-              "price": "690,000KRW"
+              "name": "[1+1 同行优惠活动] Potenza＋Juvelook Skin 4cc＋Cryo",
+              "price": "390,000KRW"
             },
             {
-              "name": "[提拉紧致 BEST] 美版超声刀 300发",
+              "name": "[1+1 同行优惠活动] CoolSoniq 5000发",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] CoolSoniq 10000发",
+              "price": "1,390,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] 身体 CoolSoniq 5000发",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Ultherapy 300发",
               "price": "890,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Ultherapy 300发＋韩产焕肤肉毒 2cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Ultherapy 600发",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Ultherapy 600发＋韩产焕肤肉毒 2cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Thermage 300发＋韩产焕肤肉毒 2cc",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Thermage 600发＋韩产焕肤肉毒 2cc",
+              "price": "1,790,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Thermage 900发",
+              "price": "2,490,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] Thermage 900发＋韩产焕肤肉毒 2cc",
+              "price": "2,590,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] 加购 CoolSoniq 1000发",
+              "price": "159,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] 加购 Juvelook Skin 2cc",
+              "price": "150,000KRW"
+            },
+            {
+              "name": "[1+1 同行优惠活动] 加购 ONDA 10kJ",
+              "price": "79,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "1+1 同行优惠活动",
+          "group": "1+1+1 同行优惠活动",
+          "groupPriceFrom": "330,000KRW +",
+          "items": [
+            {
+              "name": "[1+1+1 同行优惠活动] 丽珠兰 4cc",
+              "price": "330,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Potenza＋丽珠兰 4cc＋Cryo",
+              "price": "440,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Potenza＋丽珠兰 2cc＋Juvelook Skin 4cc",
+              "price": "560,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Potenza＋Juvelook Skin 4cc＋Cryo",
+              "price": "350,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] CoolSoniq 5000发",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] CoolSoniq 10000发",
+              "price": "1,320,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] 身体 CoolSoniq 5000发",
+              "price": "750,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Ultherapy 300发",
+              "price": "790,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Ultherapy 300发＋韩产焕肤肉毒 2cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Ultherapy 600发",
+              "price": "1,550,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Ultherapy 600发＋韩产焕肤肉毒 2cc",
+              "price": "1,650,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Thermage 300发＋韩产焕肤肉毒 2cc",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Thermage 600发＋韩产焕肤肉毒 2cc",
+              "price": "1,690,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Thermage 900发",
+              "price": "2,290,000KRW"
+            },
+            {
+              "name": "[1+1+1 同行优惠活动] Thermage 900发＋韩产焕肤肉毒 2cc",
+              "price": "2,390,000KRW"
             }
           ]
         },
         {
           "category": "🎊工作日特惠活动🎊",
-          "group": "工作日限定活动",
-          "groupPriceFrom": "70,000KRW +",
-          "items": [
-            {
-              "name": "✨[Step1 恢复肌肤状态] LIZNE 2CC",
-              "price": "70,000KRW"
-            },
-            {
-              "name": "✨[Step1 恢复肌肤状态] 水光针 2.5CC",
-              "price": "70,000KRW"
-            },
-            {
-              "name": "✨[Step2 美白＋镇静] Wiqo UNO + LDM",
-              "price": "170,000KRW"
-            },
-            {
-              "name": "✨[Step3 塑造面部轮廓] FACE ONDA 60kJ",
-              "price": "220,000KRW"
-            },
-            {
-              "name": "✨[Step4 紧致·弹力] Oligio 韩版热玛吉 300发",
-              "price": "280,000KRW"
-            },
-            {
-              "name": "✨[Step4 紧致·弹力] Shurink Universe 韩版超声刀 1000发",
-              "price": "280,000KRW"
-            },
-            {
-              "name": "✨[Step4 紧致·弹力] Eve Titan 20分钟",
-              "price": "280,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "😎周二周三周四活动",
-          "group": "🎉9.9万韩元 自由任选券",
+          "group": "工作日特惠活动",
           "groupPriceFrom": "99,000KRW +",
           "items": [
             {
-              "name": "[9.9万] InMode FX 脸颊 + 双下巴",
+              "name": "[活动] 面部 ONDA 60kJ",
+              "price": "220,000KRW"
+            },
+            {
+              "name": "[活动] Oligio 300发",
+              "price": "280,000KRW"
+            },
+            {
+              "name": "[活动] Potenza N探头",
               "price": "99,000KRW"
             },
             {
-              "name": "[9.9万] InMode Forma 脸颊 + 双下巴",
+              "name": "[活动] 皮秒＋Genesis＋白玉注射 600mg＋软膜",
               "price": "99,000KRW"
             },
             {
-              "name": "[9.9万] 全脸表皮肉毒 4cc (Newlux, 韩国产)",
-              "price": "99,000KRW"
+              "name": "[活动] Gentle Rejuran 3cc",
+              "price": "199,000KRW"
             },
             {
-              "name": "[9.9万] Potenza 黄金微针 N探头 (含探头费)",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] Face D-Cut 脸部溶脂针 10cc",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] Shurink Universe 韩版超声刀 MP模式 300发",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] Shurink Universe 韩版超声刀 Booster模式 300发",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] 皮秒激光+Genesis激光+白玉针+泥膜",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] 高浓度美白针 (维他命B+C+白玉)",
-              "price": "99,000KRW"
-            },
-            {
-              "name": "[9.9万] 修复点滴 (甘草针 ＋ 大蒜针)",
-              "price": "99,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "😎周二周三周四活动",
-          "group": "🎉18.9万韩元 自由任选券",
-          "groupPriceFrom": "189,000KRW +",
-          "items": [
-            {
-              "name": "[18.9万] Juvelook Skin 3cc (手打)",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] LHALA焕肤皮秒套装 (LHALA Peel ＋ 皮秒 ＋ 离子导入 ＋ 面膜)",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] 双下巴 CoolSoniq 1000发",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] Oligio 韩版热玛吉(脸部/眼周) 100发",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] 净白淡斑套装 (V激光+Genesis激光+SonoCare5分钟+再生霜)",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] Innertide 外泌体 Skincare",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] Eve Titan (任选1种模式／10分钟)",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] 丽珠兰黑盒 2cc (手打)",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] Potenza 黄金微针(Pumping探头)+PDRN 3cc+Cryo",
-              "price": "189,000KRW"
-            },
-            {
-              "name": "[18.9万] Wiqo Uno",
+              "name": "[活动] 双下巴 CoolSoniq 1000发",
               "price": "189,000KRW"
             }
           ]
@@ -8906,6 +8992,59 @@
         },
         {
           "category": "紧致·提升",
+          "group": "[引入特惠价] 进口提升填充剂",
+          "groupPriceFrom": "500,000KRW +",
+          "items": [
+            {
+              "name": "[活动] 进口提升填充剂 1cc",
+              "price": "500,000KRW"
+            },
+            {
+              "name": "[活动] 进口提升填充剂 1cc＋Ultherapy 100发",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "[活动] 进口提升填充剂 1cc＋Thermage 300发",
+              "price": "1,490,000KRW"
+            },
+            {
+              "name": "[活动] 进口提升填充剂 1cc＋Sofwave 100发",
+              "price": "1,490,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "紧致·提升",
+          "group": "[引入特惠价] ULTLINE",
+          "groupPriceFrom": "249,000KRW +",
+          "items": [
+            {
+              "name": "[活动] ULTLINE 面部 100发",
+              "price": "249,000KRW"
+            },
+            {
+              "name": "[活动] ULTLINE 身体（腹部除外）100发",
+              "price": "490,000KRW"
+            },
+            {
+              "name": "[活动] ULTLINE 腹部专用手具 1个部位",
+              "price": "249,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "紧致·提升",
+          "group": "ONDA 1 + 1",
+          "groupPriceFrom": "1,550,000KRW +",
+          "items": [
+            {
+              "name": "[身体] ONDA 150KJ+100KJ",
+              "price": "1,550,000KRW"
+            }
+          ]
+        },
+        {
+          "category": "紧致·提升",
           "group": "美版热玛吉 FLX / 電波拉提 FLX（美版）",
           "groupPriceFrom": "100,000KRW +",
           "items": [
@@ -8955,33 +9094,6 @@
             {
               "name": "[选项] InnerTIDE 外泌体（术后护理追加时）",
               "price": "150,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "紧致·提升",
-          "group": "ONDA 1 + 1",
-          "groupPriceFrom": "79,000KRW +",
-          "items": [
-            {
-              "name": "[脸部] ONDA 20KJ+20KJ",
-              "price": "290,000KRW"
-            },
-            {
-              "name": "[脸部] ONDA 40KJ+40KJ",
-              "price": "550,000KRW"
-            },
-            {
-              "name": "[身体] ONDA 20KJ+20KJ",
-              "price": "290,000KRW"
-            },
-            {
-              "name": "[身体] ONDA 150KJ+100KJ",
-              "price": "1,550,000KRW"
-            },
-            {
-              "name": "[选项] ONDA 每10KJ",
-              "price": "79,000KRW"
             }
           ]
         },
@@ -9055,6 +9167,85 @@
           ]
         },
         {
+          "category": "紧致·提升",
+          "group": "DEORE经典电波音波提升",
+          "groupPriceFrom": "100,000KRW +",
+          "items": [
+            {
+              "name": "第五代韩版超声刀Shurink Universe 1200发（Ultra 600发 + Booster 600发）",
+              "price": "390,000KRW"
+            },
+            {
+              "name": "第五代韩版超声刀Shurink Universe 500发 + Oligio眼部美肤电波200发",
+              "price": "580,000KRW"
+            },
+            {
+              "name": "CoolSoniq 1000发",
+              "price": "190,000KRW"
+            },
+            {
+              "name": "CoolSoniq 3000发＋ Oligio眼部探头200发",
+              "price": "1,000,000KRW"
+            },
+            {
+              "name": "CoolSoniq 5000发",
+              "price": "890,000KRW"
+            },
+            {
+              "name": "CoolSoniq 10000发",
+              "price": "1,550,000KRW"
+            },
+            {
+              "name": "美版超声刀Ultherapy 300发 + 丽珠兰2cc",
+              "price": "1,070,000KRW"
+            },
+            {
+              "name": "美版超声刀Ultherapy 300发 + 眼部探头200发",
+              "price": "1,870,000KRW"
+            },
+            {
+              "name": "加购选项 | Re2o或Juve'Ocell或CellreDM 6cc",
+              "price": "450,000KRW"
+            },
+            {
+              "name": "单次体验价 | Oligio韩版热玛吉100发",
+              "price": "100,000KRW"
+            },
+            {
+              "name": "Oligio韩版热玛吉300发 + 眼部探头200发",
+              "price": "730,000KRW"
+            },
+            {
+              "name": "Oligio韩版热玛吉600发 + 保柔缇Revive 2cc",
+              "price": "1,480,000KRW"
+            },
+            {
+              "name": "单次体验价 | 第五代热玛吉Thermage FLX 300发",
+              "price": "990,000KRW"
+            },
+            {
+              "name": "第五代热玛吉Thermage FLX 300发 + Re2o水光6cc",
+              "price": "1,450,000KRW"
+            },
+            {
+              "name": "第五代热玛吉Thermage FLX 300发 + 眼部探头Eye FLX 225发",
+              "price": "2,080,000KRW"
+            },
+            {
+              "name": "加购选项 | Re2o水光6cc",
+              "price": "450,000KRW"
+            },
+            {
+              "name": "ONDA超微波身体减脂塑形100kJ",
+              "price": "670,000KRW"
+            },
+            {
+              "name": "Coolsonic身体音波5000发",
+              "price": "1,250,000KRW"
+            }
+          ]
+        },
+        {
           "category": "毛孔·水光·肤质",
           "group": "ECM水光管理大师/ECM水光管理大師",
           "groupPriceFrom": "400,000KRW +",
@@ -9108,16 +9299,8 @@
               "price": "650,000KRW"
             },
             {
-              "name": "Juveacell 8% (除额头外全脸/ 6cc)",
-              "price": "650,000KRW"
-            },
-            {
               "name": "Juveacell 3% (颈纹/ 2cc)",
               "price": "550,000KRW"
-            },
-            {
-              "name": "Juveacell 特别套餐（特殊部位）",
-              "price": "990,000KRW"
             },
             {
               "name": "Juveacell 特别套餐（招牌）",
@@ -9223,24 +9406,12 @@
           "groupPriceFrom": "1,590,000KRW +",
           "items": [
             {
-              "name": "ONDA 70KJ + 美版超声刀2.0 300发  + 焕肤肉毒(coretox) 2cc",
-              "price": "1,590,000KRW"
-            },
-            {
               "name": "ONDA 70KJ + 美版热玛吉300发 + 焕肤肉毒(coretox) 2cc",
               "price": "1,590,000KRW"
             },
             {
               "name": "美版超声刀2.0 300发 +美版热玛吉 300发 + 焕肤肉毒(coretox) 2cc",
               "price": "2,100,000KRW"
-            },
-            {
-              "name": "美版超声刀2.0 200发 + 美版热玛吉 600发+ ONDA 80KJ",
-              "price": "2,690,000KRW"
-            },
-            {
-              "name": "sofwave 100发 + 美版超声刀2.0 300发 + 美版热玛吉300发",
-              "price": "3,000,000KRW"
             }
           ]
         },
