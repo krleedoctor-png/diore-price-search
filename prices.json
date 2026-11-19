@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:41:48.382Z",
+  "updated_at": "2026-11-19T02:11:57.880Z",
   "languages": {
     "ko": {
       "name": "한국어",
@@ -2105,17 +2105,6 @@
             {
               "name": "기미주사 1cc",
               "price": "40,000원"
-            }
-          ]
-        },
-        {
-          "category": "여드름·모공·흉터",
-          "group": "포텐자 (RF 마이크로니들)",
-          "groupPriceFrom": "140,000원 부터",
-          "items": [
-            {
-              "name": "포텐자(RF) 얼굴전체 (팁포함)1회",
-              "price": "140,000원"
             }
           ]
         },
@@ -4743,17 +4732,6 @@
             {
               "name": "Melasma Injection 1 cc",
               "price": "40,000KRW"
-            }
-          ]
-        },
-        {
-          "category": "Acne · Pores · Scars",
-          "group": "Potenza (RF Microneedle)",
-          "groupPriceFrom": "140,000KRW +",
-          "items": [
-            {
-              "name": "Potenza (RF) full-face × 1 (incl. tip)",
-              "price": "140,000KRW"
             }
           ]
         },
@@ -7448,10 +7426,6 @@
             {
               "name": "ポテンツァ ポンピングチップ変更",
               "price": "95,000KRW"
-            },
-            {
-              "name": "ポテンツァ(RF) 顔全体 1回 (チップ込み)",
-              "price": "149,000KRW"
             },
             {
               "name": "ポテンツァ ダイヤリフティング 500ショット",
